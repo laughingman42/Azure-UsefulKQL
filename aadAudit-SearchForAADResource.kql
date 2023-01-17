@@ -1,0 +1,15 @@
+// AzureAD Audit Log Search: Enter targetName of desired resource, startDate of search, & timePeriod of search
+let targetName = "Name Of Resource";
+let startDate = datetime("2022-01-01 12:00:00");
+let timePeriod = 1d;
+AuditLogs
+| where TimeGenerated between (startDate..(startDate+timePeriod))
+| where TargetResources[0].displayName contains  targetName
+| extend Target = tostring(TargetResources[0].displayName)
+| extend UPN = tostring(parse_json(tostring(InitiatedBy.user)).userPrincipalName)
+| extend ServicePrincipleDN = tostring(parse_json(tostring(InitiatedBy.app)).displayName)
+| extend ServicePrincipalID = tostring(parse_json(tostring(InitiatedBy.app)).servicePrincipalId)
+| extend ServicePrincipalName = tostring(parse_json(tostring(InitiatedBy.app)).servicePrincipalName)
+| extend modifiedProperties = tostring(parse_json(tostring(TargetResources[0].modifiedProperties)))
+| project Target, ActivityDateTime, Category, UPN, ActivityDisplayName, AADOperationType, Result, modifiedProperties, InitiatedBy, AdditionalDetails, Identity, ServicePrincipleDN, ServicePrincipalName, ServicePrincipalID, SourceSystem
+| sort by ActivityDateTime desc
