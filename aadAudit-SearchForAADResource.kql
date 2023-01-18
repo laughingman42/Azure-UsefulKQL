@@ -1,15 +1,24 @@
-// AzureAD Audit Log Search: Enter targetName of desired resource, startDate of search, & timePeriod of search
-let targetName = "Name Of Resource";
+// DESCRIPTION: Search AzureAD Audit logs for all entries where Target name *contains* the name specified.
+// PARAMETERS
+// targetName: Specify name of AAD object to search for
+// startDate:  Starting date and time for search
+// timePeriod: Timeperiod till which audit logs should be searched. 
+//             Timeperiod can be changed to days (d), hours (h), minutes (m), seconds (s) and millisecons (ms)
+let targetName = "Name of AzureAD Object";
 let startDate = datetime("2022-01-01 12:00:00");
-let timePeriod = 1d;
+let timePeriod =3d;
+let searchByTargetName = (TargetName:string, StartDate:datetime, TimePeriod:time) {
 AuditLogs
-| where TimeGenerated between (startDate..(startDate+timePeriod))
-| where TargetResources[0].displayName contains  targetName
+| where TimeGenerated between (StartDate..(StartDate+TimePeriod))
+| where TargetResources[0].displayName contains  TargetName
 | extend Target = tostring(TargetResources[0].displayName)
-| extend UPN = tostring(parse_json(tostring(InitiatedBy.user)).userPrincipalName)
-| extend ServicePrincipleDN = tostring(parse_json(tostring(InitiatedBy.app)).displayName)
+| extend UPN = tostring(parse_json(tostring(InitiatedBy.user)).userPrincipalName)  // UPN contains user that performed action
+| extend ServicePrincipleDN = tostring(parse_json(tostring(InitiatedBy.app)).displayName)  // Some operations are performed by ServicePrinciples
 | extend ServicePrincipalID = tostring(parse_json(tostring(InitiatedBy.app)).servicePrincipalId)
 | extend ServicePrincipalName = tostring(parse_json(tostring(InitiatedBy.app)).servicePrincipalName)
 | extend modifiedProperties = tostring(parse_json(tostring(TargetResources[0].modifiedProperties)))
 | project Target, ActivityDateTime, Category, UPN, ActivityDisplayName, AADOperationType, Result, modifiedProperties, InitiatedBy, AdditionalDetails, Identity, ServicePrincipleDN, ServicePrincipalName, ServicePrincipalID, SourceSystem
-| sort by ActivityDateTime desc
+};
+searchByTargetName(targetName, startDate, timePeriod)
+// Uncomment line below to get unique rows of the activity performed by a user
+// | distinct Target, ActivityDisplayName, AADOperationType, Category, UPN, ServicePrincipleDN
