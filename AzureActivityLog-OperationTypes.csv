@@ -1,0 +1,1461 @@
+OperationName,OperationNameValue,Category,CategoryValue
+Account HnsOn Migration,Microsoft.Storage/storageAccounts/hnsonmigration/action,Administrative,Administrative
+Add API to product,Microsoft.ApiManagement/service/products/apis/write,Administrative,Administrative
+Add backend or Update backend,Microsoft.ApiManagement/service/backends/write,Administrative,Administrative
+Add language extensions action,Microsoft.Synapse/workspaces/kustoPools/addLanguageExtensions/action,Administrative,Administrative
+Add management locks,Microsoft.Authorization/locks/write,Administrative,Administrative
+Add management locks,microsoft.authorization/locks/write,Administrative,Administrative
+Add or modify schedules.,Microsoft.DevTestLab/schedules/write,Administrative,Administrative
+Add or Update Connection,Microsoft.Web/connections/write,Administrative,Administrative
+Add Provider Subscription Feature Registration,Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/write,Administrative,Administrative
+Add root collection admin to account resource,Microsoft.Purview/accounts/addRootCollectionAdmin/action,Administrative,Administrative
+Adds or updates a specific Azure Active Directory administrator object,Microsoft.Sql/servers/administrators/write,Administrative,Administrative
+Assess virtual machine for available OS update patches,Microsoft.Compute/virtualMachines/assessPatches/action,Administrative,Administrative
+Assess virtual machine for available OS update patches,microsoft.compute/virtualmachines/assessPatches/action,Administrative,Administrative
+Associate group with product,Microsoft.ApiManagement/service/products/groups/write,Administrative,Administrative
+Backup Protected Item,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/backup/action,Administrative,Administrative
+BackupWebSite,BackupWebSite,Administrative,Administrative
+Cancel Deployment,Microsoft.Resources/deployments/cancel/action,Administrative,Administrative
+Change state of Private Endpoint Connection Proxy,Microsoft.KeyVault/vaults/privateEndpointConnectionProxies/write,Administrative,Administrative
+Check Accelerated Networking support,Microsoft.Network/locations/checkAcceleratedNetworkingSupport/action,Administrative,Administrative
+Check Backup Status for Vault,Microsoft.RecoveryServices/locations/backupStatus/action,Administrative,Administrative
+Check name availability action,Microsoft.Synapse/locations/kustoPoolCheckNameAvailability/action,Administrative,Administrative
+Check Resource Name Availability Action,Microsoft.RecoveryServices/locations/checkNameAvailability/action,Administrative,Administrative
+Check Server Name Availability,Microsoft.DBforPostgreSQL/checkNameAvailability/action,Administrative,Administrative
+Check Server Name Availability,Microsoft.Sql/checkNameAvailability/action,Administrative,Administrative
+Check Service Name Availability,Microsoft.Search/checkNameAvailability/action,Administrative,Administrative
+Checks Default Storage Account Status.,Microsoft.Synapse/workspaces/checkDefaultStorageAccountStatus/action,Administrative,Administrative
+Checks name for compute in batch endpoint in Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/checkComputeNameAvailability/action,Administrative,Administrative
+Checks Workspace name availability.,Microsoft.Synapse/checkNameAvailability/action,Administrative,Administrative
+Cluster check name availability action,Microsoft.Kusto/clusters/checkNameAvailability/action,Administrative,Administrative
+Cluster check name availability action,Microsoft.Synapse/workspaces/kustopools/checkNameAvailability/action,Administrative,Administrative
+Cluster check name availability action,Microsoft.Synapse/workspaces/kustoPools/checkNameAvailability/action,Administrative,Administrative
+Cluster start action,Microsoft.Synapse/workspaces/kustoPools/start/action,Administrative,Administrative
+Cluster stop action,Microsoft.Kusto/Clusters/stop/action,Administrative,Administrative
+Cluster stop action,Microsoft.Synapse/workspaces/kustoPools/stop/action,Administrative,Administrative
+Confirm Connections Consent Code,Microsoft.Web/connections/confirmConsentCode/action,Administrative,Administrative
+Connect,Microsoft.SerialConsole/serialPorts/connect/action,Administrative,Administrative
+Convert Graph Runbook Content to its raw serialized format and vice-versa,Microsoft.Automation/automationAccounts/convertGraphRunbookContent/action,Administrative,Administrative
+Convert Virtual Machine disks to Managed Disks,Microsoft.Compute/virtualMachines/convertToManagedDisks/action,Administrative,Administrative
+Create an Azure Automation job,Microsoft.Automation/automationAccounts/jobs/write,Administrative,Administrative
+Create an Integration Runtime Install Link,Microsoft.Synapse/workspaces/integrationruntimes/createExpressSHIRInstallLink/action,Administrative,Administrative
+Create API operation or Update API operation,Microsoft.ApiManagement/service/apis/operations/write,Administrative,Administrative
+Create API or Update API,Microsoft.ApiManagement/service/apis/write,Administrative,Administrative
+Create Backup Protected Item,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/write,Administrative,Administrative
+Create backup Protection Intent,Microsoft.RecoveryServices/vaults/backupFabrics/backupProtectionIntent/write,Administrative,Administrative
+Create deny assignment,Microsoft.Authorization/denyAssignments/write,Administrative,Administrative
+Create Deployment,Microsoft.Resources/deployments/write,Administrative,Administrative
+Create named value or Update named value,Microsoft.ApiManagement/service/namedValues/write,Administrative,Administrative
+Create new OMS solution,Microsoft.OperationsManagement/solutions/write,Administrative,Administrative
+Create new or update existing elastic pool,Microsoft.Sql/servers/elasticpools/write,Administrative,Administrative
+Create or Update a Bastion Host,Microsoft.Network/bastionHosts/write,Administrative,Administrative
+Create or update a private link service proxy.,Microsoft.Network/privateEndpoints/privateLinkServiceProxies/write,Administrative,Administrative
+Create or Update a SaaS Subscription Level resource,Microsoft.SaaS/resources/write,Administrative,Administrative
+Create or Update a taskrun for a container registry.,Microsoft.ContainerRegistry/registries/taskRuns/write,Administrative,Administrative
+Create or update a view,Microsoft.OperationalInsights/workspaces/views/write,Administrative,Administrative
+Create or update action group,microsoft.insights/actionGroups/write,Administrative,Administrative
+Create or update action group,microsoft.insights/actiongroups/write,Administrative,Administrative
+Create or update action group,Microsoft.Insights/actiongroups/write,Administrative,Administrative
+Create or update action group,Microsoft.Insights/actionGroups/write,Administrative,Administrative
+Create or update activity log alert,Microsoft.Insights/activityLogAlerts/write,Administrative,Administrative
+Create or Update Agent Pool,Microsoft.ContainerService/managedClusters/agentPools/write,Administrative,Administrative
+Create or Update Agent Pool,Microsoft.ContainerService/managedClusters/agentpools/write,Administrative,Administrative
+Create or Update an Azure Automation account,Microsoft.Automation/automationAccounts/write,Administrative,Administrative
+Create or Update an Azure Automation account,microsoft.automation/automationaccounts/write,Administrative,Administrative
+Create or Update an Azure Automation connection asset,Microsoft.Automation/automationAccounts/connections/write,Administrative,Administrative
+Create or Update an Azure Automation credential asset,Microsoft.Automation/automationAccounts/credentials/write,Administrative,Administrative
+Create or Update an Azure Automation Powershell module,Microsoft.Automation/automationAccounts/modules/write,Administrative,Administrative
+Create or Update an Azure Automation Runbook,Microsoft.Automation/automationAccounts/runbooks/write,Administrative,Administrative
+Create or update an private endpoint.,Microsoft.Network/privateEndpoints/write,Administrative,Administrative
+Create or Update API Management Service instance,Microsoft.ApiManagement/service/write,Administrative,Administrative
+Create or Update Availability Set,Microsoft.Compute/availabilitySets/write,Administrative,Administrative
+Create or Update Azure Automation certificate,Microsoft.Automation/automationAccounts/certificates/write,Administrative,Administrative
+Create or Update Cloud Endpoints,Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/write,Administrative,Administrative
+Create or Update Cloud Endpoints,microsoft.storagesync/storageSyncServices/syncGroups/cloudEndpoints/write,Administrative,Administrative
+Create or update Container Group,Microsoft.ContainerInstance/containerGroups/write,Administrative,Administrative
+Create or Update Container Registry,Microsoft.ContainerRegistry/registries/write,Administrative,Administrative
+Create or update custom role definition,Microsoft.Authorization/roleDefinitions/write,Administrative,Administrative
+Create or update data collection rule association,microsoft.insights/dataCollectionRuleAssociations/write,Administrative,Administrative
+Create or Update Disk,Microsoft.Compute/disks/write,Administrative,Administrative
+Create or Update Firewall Policy,Microsoft.Network/firewallPolicies/write,Administrative,Administrative
+Create or Update Image,Microsoft.Compute/images/write,Administrative,Administrative
+Create or Update Integration Runtimes.,Microsoft.Synapse/workspaces/integrationruntimes/write,Administrative,Administrative
+Create or Update Integration Runtimes.,Microsoft.Synapse/workspaces/integrationRuntimes/write,Administrative,Administrative
+Create or update IP Firewall Rule.,Microsoft.Synapse/workspaces/firewallrules/write,Administrative,Administrative
+Create or update IP Firewall Rule.,Microsoft.Synapse/workspaces/firewallRules/write,Administrative,Administrative
+Create or Update Jobs in Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/jobs/write,Administrative,Administrative
+Create or Update Load Balancer,Microsoft.Network/loadBalancers/write,Administrative,Administrative
+Create or update load balancer backend address pool,Microsoft.Network/loadBalancers/backendAddressPools/write,Administrative,Administrative
+Create or Update Machine Learning Services Workspace Linked Service(s),Microsoft.MachineLearningServices/workspaces/linkedServices/write,Administrative,Administrative
+Create or Update Managed Cluster,Microsoft.ContainerService/managedClusters/write,Administrative,Administrative
+Create or Update Managed Cluster,microsoft.containerservice/managedClusters/write,Administrative,Administrative
+Create or Update Managed Cluster,microsoft.containerservice/managedclusters/write,Administrative,Administrative
+Create or update metric alert,microsoft.insights/metricAlerts/write,Administrative,Administrative
+Create or update metric alert,microsoft.insights/metricalerts/write,Administrative,Administrative
+Create or Update Network Interface,Microsoft.Network/networkInterfaces/write,Administrative,Administrative
+Create or Update Network Security Group,Microsoft.Network/networkSecurityGroups/write,Administrative,Administrative
+Create or Update Private DNS Zone,Microsoft.Network/privateDnsZones/write,Administrative,Administrative
+Create or Update Private DNS zone link to virtual network,Microsoft.Network/privateDnsZones/virtualNetworkLinks/write,Administrative,Administrative
+Create or Update Private Endpoint Connection,Microsoft.EventHub/namespaces/privateEndpointConnections/write,Administrative,Administrative
+Create or update Private Endpoint Connection,Microsoft.Purview/accounts/privateEndpointConnections/write,Administrative,Administrative
+Create or Update Private Endpoint Connection,Microsoft.Synapse/workspaces/privateEndpointConnections/write,Administrative,Administrative
+Create or Update Private Endpoint Connection Proxy,Microsoft.Synapse/workspaces/privateEndpointConnectionProxies/write,Administrative,Administrative
+Create or Update Public Ip Address,Microsoft.Network/publicIPAddresses/write,Administrative,Administrative
+Create or Update Public Ip Address,Microsoft.Network/publicIpAddresses/write,Administrative,Administrative
+Create or update record set of type A,Microsoft.Network/privateDnsZones/A/write,Administrative,Administrative
+Create or Update Registered Server,Microsoft.StorageSync/storageSyncServices/registeredServers/write,Administrative,Administrative
+Create or update resource diagnostic setting,microsoft.insights/diagnosticSettings/write,Administrative,Administrative
+Create or update resource diagnostic setting,Microsoft.Insights/diagnosticSettings/write,Administrative,Administrative
+Create or Update Restore Point Collection,Microsoft.Compute/restorePointCollections/write,Administrative,Administrative
+Create or Update Route,Microsoft.Network/routeTables/routes/write,Administrative,Administrative
+Create or Update Route Table,Microsoft.Network/routeTables/write,Administrative,Administrative
+Create or Update Security Rule,Microsoft.Network/networkSecurityGroups/securityRules/write,Administrative,Administrative
+Create or Update Server Endpoints,microsoft.storagesync/storageSyncServices/syncGroups/serverEndpoints/write,Administrative,Administrative
+Create or Update server vulnerability assessments,Microsoft.Security/serverVulnerabilityAssessments/write,Administrative,Administrative
+Create or Update Snapshot,Microsoft.Compute/snapshots/write,Administrative,Administrative
+Create or Update Spark pools.,Microsoft.Synapse/workspaces/bigDataPools/write,Administrative,Administrative
+Create or Update SQL Analytics pool Auditing Settings.,Microsoft.Synapse/workspaces/sqlPools/auditingSettings/write,Administrative,Administrative
+Create or Update SQL Analytics pool Maintenance Windows.,Microsoft.Synapse/workspaces/sqlPools/maintenanceWindows/write,Administrative,Administrative
+Create or Update SQL Analytics pool Transparent Data Encryption Configuration.,Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption/write,Administrative,Administrative
+Create or Update SQL Analytics pools.,Microsoft.Synapse/workspaces/sqlPools/write,Administrative,Administrative
+Create or Update SQL server auditing settings.,Microsoft.Synapse/workspaces/auditingSettings/write,Administrative,Administrative
+Create or Update SQL server security alert policies.,Microsoft.Synapse/workspaces/securityAlertPolicies/write,Administrative,Administrative
+Create or Update SQL server vulnerability assement report.,Microsoft.Synapse/workspaces/vulnerabilityAssessments/write,Administrative,Administrative
+Create or Update Static Site,Microsoft.Web/staticSites/write,Administrative,Administrative
+Create or Update Sync Groups,Microsoft.StorageSync/storageSyncServices/syncGroups/write,Administrative,Administrative
+Create or Update Tagged Traffic Consumer,microsoft.network/virtualNetworks/taggedTrafficConsumers/write,Administrative,Administrative
+Create or Update Tagged Traffic Consumer,Microsoft.Network/virtualNetworks/taggedTrafficConsumers/write,Administrative,Administrative
+Create or Update Tagged Traffic Consumer,microsoft.network/virtualnetworks/taggedTrafficConsumers/write,Administrative,Administrative
+Create or Update Virtual Machine,Microsoft.Compute/virtualMachines/write,Administrative,Administrative
+Create or Update Virtual Machine,microsoft.compute/virtualMachines/write,Administrative,Administrative
+Create or Update Virtual Machine Extension,Microsoft.Compute/virtualMachines/extensions/write,Administrative,Administrative
+Create or Update Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/write,Administrative,Administrative
+Create or Update Virtual Machine Scale Set Extension,Microsoft.Compute/virtualMachineScaleSets/extensions/write,Administrative,Administrative
+Create or Update Virtual Network,Microsoft.Network/virtualNetworks/write,Administrative,Administrative
+Create or Update Virtual Network Peering,Microsoft.Network/virtualNetworks/virtualNetworkPeerings/write,Administrative,Administrative
+Create or Update Virtual Network Subnet,Microsoft.Network/virtualNetworks/subnets/write,Administrative,Administrative
+Create or Update Workspace Keys,Microsoft.Synapse/workspaces/keys/write,Administrative,Administrative
+Create or Update Workspaces.,Microsoft.Synapse/workspaces/write,Administrative,Administrative
+Create Packet Capture,Microsoft.Network/networkWatchers/packetCaptures/write,Administrative,Administrative
+Create policy assignment,Microsoft.Authorization/policyAssignments/write,Administrative,Administrative
+Create policy exemption,Microsoft.Authorization/policyExemptions/write,Administrative,Administrative
+Create policy set definition,Microsoft.Authorization/policySetDefinitions/write,Administrative,Administrative
+Create Private Endpoint Connection Proxy,Microsoft.ContainerRegistry/registries/privateEndpointConnectionProxies/write,Administrative,Administrative
+Create Private Endpoint Connection Proxy,Microsoft.EventHub/namespaces/privateEndpointConnectionProxies/write,Administrative,Administrative
+Create product or Update product,Microsoft.ApiManagement/service/products/write,Administrative,Administrative
+Create Protection Policy,Microsoft.RecoveryServices/vaults/backupPolicies/write,Administrative,Administrative
+Create Registered Container,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/write,Administrative,Administrative
+Create Restore Point,Microsoft.Compute/restorePointCollections/restorePoints/write,Administrative,Administrative
+Create role assignment,Microsoft.Authorization/roleAssignments/write,Administrative,Administrative
+Create Smart Detector alert rule,microsoft.alertsmanagement/smartDetectorAlertRules/write,Administrative,Administrative
+Create Smart Detector alert rule,microsoft.alertsmanagement/smartdetectoralertrules/write,Administrative,Administrative
+Create SQL Analytics pool Restore Point.,Microsoft.Synapse/workspaces/sqlPools/restorePoints/action,Administrative,Administrative
+Create Vault,Microsoft.RecoveryServices/vaults/write,Administrative,Administrative
+Create VersionSet or Update VersionSet,Microsoft.ApiManagement/service/apiVersionSets/write,Administrative,Administrative
+Create Workspace,Microsoft.OperationalInsights/workspaces/write,Administrative,Administrative
+Create/Update Azure SQL Database Private Endpoint Connection Proxy,Microsoft.Sql/servers/privateEndpointConnectionProxies/write,Administrative,Administrative
+Create/Update Azure SQL Server Keys,Microsoft.Sql/servers/keys/write,Administrative,Administrative
+Create/Update Azure SQL Server Virtual Network Rule,Microsoft.Sql/servers/virtualNetworkRules/write,Administrative,Administrative
+Create/Update Database Backup Archival Policy,Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/write,Administrative,Administrative
+Create/Update datasources under a workspace.,Microsoft.OperationalInsights/workspaces/datasources/write,Administrative,Administrative
+Create/Update linked services under given workspace.,microsoft.operationalinsights/workspaces/linkedServices/write,Administrative,Administrative
+Create/Update linked services under given workspace.,Microsoft.OperationalInsights/workspaces/linkedServices/write,Administrative,Administrative
+Create/Update Storage Account,Microsoft.Storage/storageAccounts/write,Administrative,Administrative
+Create/Update User Assigned Identity,Microsoft.ManagedIdentity/userAssignedIdentities/write,Administrative,Administrative
+Creates a restore point,Microsoft.Sql/servers/databases/restorePoints/action,Administrative,Administrative
+Creates an Azure Automation Private Endpoint Connection Proxy,Microsoft.Automation/automationAccounts/privateEndpointConnectionProxies/write,Administrative,Administrative
+Creates or updates a Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/write,Administrative,Administrative
+Creates or updates a Service Association Link,Microsoft.Network/virtualNetworks/subnets/serviceAssociationLinks/write,Administrative,Administrative
+Creates or updates an Azure Firewall,Microsoft.Network/azureFirewalls/write,Administrative,Administrative
+Creates or updates batch inference endpoint in Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/batchEndpoints/write,Administrative,Administrative
+Creates or updates deployments in batch inference endpoint in Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/write,Administrative,Administrative
+Creates or updates the compute resources in Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/computes/write,Administrative,Administrative
+CreateWebSite,CreateWebSite,Administrative,Administrative
+Data Share ListSourceShareSynchronizationSettings Action,Microsoft.DataShare/accounts/shareSubscriptions/listSourceShareSynchronizationSettings/action,Administrative,Administrative
+Data Share ListSynchronizationDetails Action,Microsoft.DataShare/accounts/shareSubscriptions/ListSynchronizationDetails/action,Administrative,Administrative
+Data Share ListSynchronizations Action,Microsoft.DataShare/accounts/shareSubscriptions/ListSynchronizations/action,Administrative,Administrative
+Data Share Synchronize Action,Microsoft.DataShare/accounts/shareSubscriptions/Synchronize/action,Administrative,Administrative
+Deallocate Virtual Machine,Microsoft.Compute/virtualMachines/deallocate/action,Administrative,Administrative
+Deallocate Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/deallocate/action,Administrative,Administrative
+Delete a Cluster principal assignments resource,Microsoft.Synapse/workspaces/kustoPools/principalAssignments/delete,Administrative,Administrative
+Delete a database principal assignments resource,Microsoft.Kusto/Clusters/databases/principalAssignments/delete,Administrative,Administrative
+Delete Agent Pool,Microsoft.ContainerService/managedClusters/agentPools/delete,Administrative,Administrative
+Delete an Azure Automation account,Microsoft.Automation/automationAccounts/delete,Administrative,Administrative
+Delete an Azure Automation certificate,Microsoft.Automation/automationAccounts/certificates/delete,Administrative,Administrative
+Delete an Azure Automation Runbook,Microsoft.Automation/automationAccounts/runbooks/delete,Administrative,Administrative
+Delete an private endpoint.,Microsoft.Network/privateEndpoints/delete,Administrative,Administrative
+Delete Availability Set,Microsoft.Compute/availabilitySets/delete,Administrative,Administrative
+Delete Azure SQL Database Private Endpoint Connection Proxy,Microsoft.Sql/servers/privateEndpointConnectionProxies/delete,Administrative,Administrative
+Delete Azure SQL Server Virtual Network Rule,Microsoft.Sql/servers/virtualNetworkRules/delete,Administrative,Administrative
+Delete blob container,Microsoft.Storage/storageAccounts/blobServices/containers/delete,Administrative,Administrative
+Delete Cloud Endpoints,microsoft.storagesync/storageSyncServices/syncGroups/cloudEndpoints/delete,Administrative,Administrative
+Delete cluster resource,Microsoft.Synapse/workspaces/kustoPools/delete,Administrative,Administrative
+Delete cluster resource,Microsoft.Synapse/workspaces/KustoPools/delete,Administrative,Administrative
+Delete Container Group,Microsoft.ContainerInstance/containerGroups/delete,Administrative,Administrative
+Delete Container Registry,Microsoft.ContainerRegistry/registries/delete,Administrative,Administrative
+Delete custom role definition,Microsoft.Authorization/roleDefinitions/delete,Administrative,Administrative
+Delete data collection rule association,microsoft.insights/dataCollectionRuleAssociations/delete,Administrative,Administrative
+Delete Data Share Account,Microsoft.DataShare/accounts/delete,Administrative,Administrative
+Delete Data Share Share,Microsoft.DataShare/accounts/shares/delete,Administrative,Administrative
+Delete database resource,Microsoft.Kusto/Clusters/Databases/delete,Administrative,Administrative
+Delete deny assignment,Microsoft.Authorization/denyAssignments/delete,Administrative,Administrative
+Delete Deployment,Microsoft.Resources/deployments/delete,Administrative,Administrative
+Delete deployment script,Microsoft.Resources/deploymentScripts/delete,Administrative,Administrative
+Delete Disk,Microsoft.Compute/disks/delete,Administrative,Administrative
+Delete elastic pool,Microsoft.Sql/servers/elasticpools/delete,Administrative,Administrative
+Delete EventSubscription,Microsoft.EventGrid/eventSubscriptions/delete,Administrative,Administrative
+Delete File Share,Microsoft.Storage/storageAccounts/fileServices/shares/delete,Administrative,Administrative
+Delete Firewall Policy,Microsoft.Network/firewallPolicies/delete,Administrative,Administrative
+Delete hosting plan,Microsoft.Web/serverFarms/delete,Administrative,Administrative
+Delete Image,Microsoft.Compute/images/delete,Administrative,Administrative
+Delete Integration Runtime Node.,Microsoft.Synapse/workspaces/integrationruntimes/nodes/delete,Administrative,Administrative
+Delete Integration Runtimes,Microsoft.Synapse/workspaces/integrationRuntimes/delete,Administrative,Administrative
+Delete IP Firewall Rule,Microsoft.Synapse/workspaces/firewallRules/delete,Administrative,Administrative
+Delete Key Vault,Microsoft.KeyVault/vaults/delete,Administrative,Administrative
+Delete Load Balancer,Microsoft.Network/loadBalancers/delete,Administrative,Administrative
+Delete Machine Learning Services Workspace Linked Service(s),Microsoft.MachineLearningServices/workspaces/linkedServices/delete,Administrative,Administrative
+Delete Managed Cluster,Microsoft.ContainerService/managedClusters/delete,Administrative,Administrative
+Delete management locks,Microsoft.Authorization/locks/delete,Administrative,Administrative
+Delete network flow log diagnostic setting,Microsoft.Insights/extendedDiagnosticSettings/delete,Administrative,Administrative
+Delete Network Interface,Microsoft.Network/networkInterfaces/delete,Administrative,Administrative
+Delete Network Security Group,Microsoft.Network/networkSecurityGroups/delete,Administrative,Administrative
+Delete Network Watcher,Microsoft.Network/networkWatchers/delete,Administrative,Administrative
+Delete Packet Capture,Microsoft.Network/networkWatchers/packetCaptures/delete,Administrative,Administrative
+Delete Private DNS Zone,Microsoft.Network/privateDnsZones/delete,Administrative,Administrative
+Delete Private DNS zone link to virtual network,Microsoft.Network/privateDnsZones/virtualNetworkLinks/delete,Administrative,Administrative
+Delete Private Endpoint Connection,Microsoft.Purview/accounts/privateEndpointConnections/delete,Administrative,Administrative
+Delete Private Endpoint Connection,Microsoft.Storage/storageAccounts/privateEndpointConnections/delete,Administrative,Administrative
+Delete private endpoint connection,Microsoft.Synapse/workspaces/KustoPools/privateEndpointConnections/delete,Administrative,Administrative
+Delete Private Endpoint Connection,Microsoft.Synapse/workspaces/privateEndpointConnections/delete,Administrative,Administrative
+Delete Private Endpoint Connection for PrivateLinkHub,Microsoft.Synapse/privateLinkHubs/privateEndpointConnections/delete,Administrative,Administrative
+Delete Private Endpoint Connection Proxies,Microsoft.Storage/storageAccounts/privateEndpointConnectionProxies/delete,Administrative,Administrative
+Delete private endpoint connection proxy,Microsoft.Synapse/workspaces/KustoPools/privateEndpointConnectionProxies/delete,Administrative,Administrative
+Delete Private Endpoint Connection Proxy,Microsoft.Synapse/workspaces/privateEndpointConnectionProxies/delete,Administrative,Administrative
+Delete Public Ip Address,Microsoft.Network/publicIPAddresses/delete,Administrative,Administrative
+Delete record set of type A,Microsoft.Network/privateDnsZones/A/delete,Administrative,Administrative
+Delete Registered Server,microsoft.storagesync/storageSyncServices/registeredServers/delete,Administrative,Administrative
+Delete resource diagnostic setting,microsoft.insights/diagnosticSettings/delete,Administrative,Administrative
+Delete resource group,Microsoft.Resources/subscriptions/resourcegroups/delete,Administrative,Administrative
+Delete resource group,Microsoft.Resources/subscriptions/resourceGroups/delete,Administrative,Administrative
+Delete Restore Point,Microsoft.Compute/restorePointCollections/restorePoints/delete,Administrative,Administrative
+Delete Restore Point Collection,Microsoft.Compute/restorePointCollections/delete,Administrative,Administrative
+Delete role assignment,Microsoft.Authorization/roleAssignments/delete,Administrative,Administrative
+Delete Route,Microsoft.Network/routeTables/routes/delete,Administrative,Administrative
+Delete Route Table,Microsoft.Network/routeTables/delete,Administrative,Administrative
+Delete schedules.,Microsoft.DevTestLab/schedules/delete,Administrative,Administrative
+Delete Security Rule,Microsoft.Network/networkSecurityGroups/securityRules/delete,Administrative,Administrative
+Delete Server Endpoints,microsoft.storagesync/storageSyncServices/syncGroups/serverEndpoints/delete,Administrative,Administrative
+Delete server firewall rule,Microsoft.Sql/servers/firewallRules/delete,Administrative,Administrative
+Delete Service Association Link,Microsoft.Network/virtualNetworks/subnets/serviceAssociationLinks/delete,Administrative,Administrative
+Delete Snapshot,Microsoft.Compute/snapshots/delete,Administrative,Administrative
+Delete Spark pools.,Microsoft.Synapse/workspaces/bigDataPools/delete,Administrative,Administrative
+Delete SQL Analytics pools.,Microsoft.Synapse/workspaces/sqlPools/delete,Administrative,Administrative
+Delete SQL database,Microsoft.Sql/servers/databases/delete,Administrative,Administrative
+Delete SQL server,Microsoft.Sql/servers/delete,Administrative,Administrative
+Delete Static Site,Microsoft.Web/staticSites/delete,Administrative,Administrative
+Delete Storage Account,Microsoft.Storage/storageAccounts/delete,Administrative,Administrative
+Delete Sync Groups,microsoft.storagesync/storageSyncServices/syncGroups/delete,Administrative,Administrative
+Delete System Topic,Microsoft.EventGrid/systemTopics/delete,Administrative,Administrative
+Delete Tagged Traffic Consumer,microsoft.network/virtualNetworks/taggedTrafficConsumers/delete,Administrative,Administrative
+Delete User Assigned Identity,Microsoft.ManagedIdentity/userAssignedIdentities/delete,Administrative,Administrative
+Delete Virtual Machine,Microsoft.Compute/virtualMachines/delete,Administrative,Administrative
+Delete Virtual Machine,microsoft.compute/virtualMachines/delete,Administrative,Administrative
+Delete Virtual Machine Extension,Microsoft.Compute/virtualMachines/extensions/delete,Administrative,Administrative
+Delete Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/delete,Administrative,Administrative
+Delete Virtual Machines in a Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/delete/action,Administrative,Administrative
+Delete Virtual Network,Microsoft.Network/virtualNetworks/delete,Administrative,Administrative
+Delete Virtual Network Peering,Microsoft.Network/virtualNetworks/virtualNetworkPeerings/delete,Administrative,Administrative
+Delete Virtual Network Subnet,Microsoft.Network/virtualNetworks/subnets/delete,Administrative,Administrative
+Delete Web App Source Control Configuration,Microsoft.Web/sites/sourcecontrols/delete,Administrative,Administrative
+Delete Webhook,Microsoft.ContainerRegistry/registries/webhooks/delete,Administrative,Administrative
+Delete website,Microsoft.Web/sites/delete,Administrative,Administrative
+Delete Workflow,Microsoft.Logic/workflows/delete,Administrative,Administrative
+Delete Workspaces.,Microsoft.Synapse/workspaces/delete,Administrative,Administrative
+Deletes a Bastion Host,Microsoft.Network/bastionHosts/delete,Administrative,Administrative
+Deletes an Azure Automation DSC's content,Microsoft.Automation/automationAccounts/configurations/delete,Administrative,Administrative
+Deletes the compute resources in Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/computes/delete,Administrative,Administrative
+Deletes the Machine Learning Services Workspace(s),Microsoft.MachineLearningServices/workspaces/delete,Administrative,Administrative
+DeleteWebSite,DeleteWebSite,Administrative,Administrative
+Disable Workflow,Microsoft.Logic/workflows/disable/action,Administrative,Administrative
+Drops a specific workload classifier.,Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers/delete,Administrative,Administrative
+Drops a specific workload classifier.,Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers/delete,Administrative,Administrative
+Drops a specific workload group.,Microsoft.Sql/servers/databases/workloadGroups/delete,Administrative,Administrative
+Drops a specific workload group.,Microsoft.Synapse/workspaces/sqlPools/workloadGroups/delete,Administrative,Administrative
+Dynamic Invoke Connection.,Microsoft.Web/connections/dynamicInvoke/action,Administrative,Administrative
+Edit compute start/stop schedules,Microsoft.MachineLearningServices/workspaces/computes/updateSchedules/action,Administrative,Administrative
+Enable Interactive query on an Integration Runtime,Microsoft.Synapse/workspaces/integrationruntimes/enableInteractiveQuery/action,Administrative,Administrative
+Enable Workflow,Microsoft.Logic/workflows/enable/action,Administrative,Administrative
+Export template for deployment,Microsoft.Resources/deployments/exportTemplate/action,Administrative,Administrative
+Generate a URI for an Azure Automation webhook,Microsoft.Automation/automationAccounts/webhooks/action,Administrative,Administrative
+Generate Recommendations,Microsoft.Advisor/generateRecommendations/action,Administrative,Administrative
+Get Active Sessions in the Bastion Host,Microsoft.Network/bastionHosts/getactivesessions/action,Administrative,Administrative
+Get Admin Key,Microsoft.Search/searchServices/listAdminKeys/action,Administrative,Administrative
+Get Connection Strings,Microsoft.DocumentDB/databaseAccounts/listConnectionStrings/action,Administrative,Administrative
+Get Database Top Queries query text,Microsoft.SQL/servers/databases/topQueries/queryText/action,Administrative,Administrative
+Get Disk SAS URI,Microsoft.Compute/disks/beginGetAccess/action,Administrative,Administrative
+Get DNS alias target dependencies,Microsoft.Network/getDnsResourceReference/action,Administrative,Administrative
+Get downloadable IoT Defender packages information,Microsoft.IoTSecurity/defenderSettings/packageDownloads/action,Administrative,Administrative
+Get incremental DiskRestorePoint SAS URI,Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/beginGetAccess/action,Administrative,Administrative
+Get Integration Runtime Ip Address,Microsoft.Synapse/workspaces/integrationruntimes/nodes/ipAddress/action,Administrative,Administrative
+Get Namespace Listkeys,Microsoft.EventHub/namespaces/authorizationRules/listKeys/action,Administrative,Administrative
+Get Network Interface Effective Route Table,Microsoft.Network/networkInterfaces/effectiveRouteTable/action,Administrative,Administrative
+Get Network Interface Effective Security Groups,Microsoft.Network/networkInterfaces/effectiveNetworkSecurityGroups/action,Administrative,Administrative
+Get property secrets or Get media content blob container uri,Microsoft.ApiManagement/service/portalsettings/listSecrets/action,Administrative,Administrative
+Get Restore Point along with blob SAS URIs,Microsoft.Compute/restorePointCollections/restorePoints/retrieveSasUris/action,Administrative,Administrative
+Get Snapshot SAS URI,Microsoft.Compute/snapshots/beginGetAccess/action,Administrative,Administrative
+Get source upload url location for a container registry.,Microsoft.ContainerRegistry/registries/listBuildSourceUploadUrl/action,Administrative,Administrative
+Get subscripiton keys,Microsoft.ApiManagement/service/subscriptions/listSecrets/action,Administrative,Administrative
+Get tenant access information,Microsoft.ApiManagement/service/tenant/listSecrets/action,Administrative,Administrative
+Get the log SAS URL for a run.,Microsoft.ContainerRegistry/registries/runs/listLogSasUrl/action,Administrative,Administrative
+Get the SaaS Subscription Level resource access token,Microsoft.SaaS/resources/listAccessToken/action,Administrative,Administrative
+Get token,Microsoft.ApiManagement/service/users/token/action,Administrative,Administrative
+Get Web App Publishing Profile,Microsoft.Web/sites/publishxml/action,Administrative,Administrative
+Get Zipped Container Logs for Web App,Microsoft.Web/sites/containerlogs/action,Administrative,Administrative
+Gets change snapshots for the given resource Id and change Id,Microsoft.ChangeAnalysis/changeSnapshots/action,Administrative,Administrative
+Gets the Keys for the automation account,Microsoft.Automation/automationAccounts/listKeys/action,Administrative,Administrative
+Gets workflow recommend operation groups,Microsoft.Logic/locations/workflows/recommendOperationGroups/action,Administrative,Administrative
+Import Image,Microsoft.ContainerRegistry/registries/importImage/action,Administrative,Administrative
+Install OS update patches on virtual machine,Microsoft.Compute/virtualMachines/installPatches/action,Administrative,Administrative
+List Auth Keys of an Integration Runtime,Microsoft.Synapse/workspaces/integrationruntimes/listAuthKeys/action,Administrative,Administrative
+List changes of a single resource,Microsoft.ChangeAnalysis/resourceChanges/action,Administrative,Administrative
+List clusterAdmin credential,Microsoft.ContainerService/managedClusters/listClusterAdminCredential/action,Administrative,Administrative
+List clusterAdmin credential,microsoft.containerservice/managedclusters/listClusterAdminCredential/action,Administrative,Administrative
+List clusterMonitoringUser credential,Microsoft.ContainerService/managedClusters/listClusterMonitoringUserCredential/action,Administrative,Administrative
+List clusterUser credential,Microsoft.ContainerService/managedClusters/listClusterUserCredential/action,Administrative,Administrative
+List clusterUser credential,microsoft.containerservice/managedclusters/listClusterUserCredential/action,Administrative,Administrative
+List Consent Links for Connections,Microsoft.Web/connections/listConsentLinks/action,Administrative,Administrative
+List Container Registry Login Credentials,Microsoft.ContainerRegistry/registries/listCredentials/action,Administrative,Administrative
+List Container Registry Login Credentials,microsoft.containerregistry/registries/listCredentials/action,Administrative,Administrative
+List follower's databases action,Microsoft.Kusto/clusters/listFollowerDatabases/action,Administrative,Administrative
+List Keys,Microsoft.CognitiveServices/accounts/listKeys/action,Administrative,Administrative
+List keys,Microsoft.DocumentDb/databaseAccounts/listKeys/action,Administrative,Administrative
+List keys,Microsoft.DocumentDB/databaseAccounts/listKeys/action,Administrative,Administrative
+List keys on the account resource,Microsoft.Purview/accounts/listkeys/action,Administrative,Administrative
+List Network Manager Effective Connectivity Configurations,Microsoft.Network/virtualNetworks/listNetworkManagerEffectiveConnectivityConfigurations/action,Administrative,Administrative
+List Network Manager Effective Security Admin Rules,Microsoft.Network/virtualNetworks/listNetworkManagerEffectiveSecurityAdminRules/action,Administrative,Administrative
+List nodes for compute resource in Machine Learning Services Workspace,Microsoft.MachineLearningServices/workspaces/computes/listNodes/action,Administrative,Administrative
+List policy fragment references,Microsoft.ApiManagement/service/policyfragments/listReferences/action,Administrative,Administrative
+List SKUs,Microsoft.Capacity/listSkus/action,Administrative,Administrative
+List Storage Account Keys,Microsoft.Storage/storageAccounts/listKeys/action,Administrative,Administrative
+List Storage Account Keys,microsoft.storage/storageaccounts/listkeys/action,Administrative,Administrative
+List Storage Account Keys,microsoft.storage/storageaccounts/listKeys/action,Administrative,Administrative
+List Storage Account Keys,microsoft.storage/storageAccounts/listKeys/action,Administrative,Administrative
+List Storage Account Keys,Microsoft.Storage/storageAccounts/listkeys/action,Administrative,Administrative
+List Storage Account keys for a Machine Learning Services Workspace,Microsoft.MachineLearningServices/workspaces/listStorageAccountKeys/action,Administrative,Administrative
+List Trigger Callback URL,Microsoft.Logic/workflows/triggers/listCallbackUrl/action,Administrative,Administrative
+List Web Apps Functions Host Keys,Microsoft.Web/sites/host/listkeys/action,Administrative,Administrative
+List Web Apps Functions Keys,Microsoft.Web/sites/functions/listkeys/action,Administrative,Administrative
+List Workspace Shared Keys,Microsoft.OperationalInsights/workspaces/sharedKeys/action,Administrative,Administrative
+List Workspace Shared Keys,microsoft.operationalinsights/workspaces/sharedkeys/action,Administrative,Administrative
+Manual Upgrade Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/manualupgrade/action,Administrative,Administrative
+microsoft.alertsmanagement/smartDetectorAlertRules/write,microsoft.alertsmanagement/smartDetectorAlertRules/write,Administrative,Administrative
+Microsoft.Authorization/locks/write,Microsoft.Authorization/locks/write,Administrative,Administrative
+Microsoft.Automation/automationAccounts/listbuiltinmodules/action,Microsoft.Automation/automationAccounts/listbuiltinmodules/action,Administrative,Administrative
+Microsoft.Automation/automationAccounts/runbooks/draft/action,Microsoft.Automation/automationAccounts/runbooks/draft/action,Administrative,Administrative
+Microsoft.Compute/disks/delete,Microsoft.Compute/disks/delete,Administrative,Administrative
+Microsoft.Compute/disks/write,Microsoft.Compute/disks/write,Administrative,Administrative
+Microsoft.Compute/locations/diagnostics/validateStorageConfiguration/action,Microsoft.Compute/locations/diagnostics/validateStorageConfiguration/action,Administrative,Administrative
+Microsoft.Compute/restorePointCollections/restorePoints/delete,Microsoft.Compute/restorePointCollections/restorePoints/delete,Administrative,Administrative
+Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/beginGetAccess/action,Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/beginGetAccess/action,Administrative,Administrative
+Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/endGetAccess/action,Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/endGetAccess/action,Administrative,Administrative
+Microsoft.Compute/restorePointCollections/restorePoints/retrieveSasUris/action,Microsoft.Compute/restorePointCollections/restorePoints/retrieveSasUris/action,Administrative,Administrative
+Microsoft.Compute/restorePointCollections/restorePoints/write,Microsoft.Compute/restorePointCollections/restorePoints/write,Administrative,Administrative
+Microsoft.Compute/snapshots/delete,Microsoft.Compute/snapshots/delete,Administrative,Administrative
+Microsoft.Compute/snapshots/write,Microsoft.Compute/snapshots/write,Administrative,Administrative
+Microsoft.Compute/virtualMachines/deallocate/action,Microsoft.Compute/virtualMachines/deallocate/action,Administrative,Administrative
+Microsoft.Compute/virtualMachines/delete,Microsoft.Compute/virtualMachines/delete,Administrative,Administrative
+Microsoft.Compute/virtualMachines/extensions/write,Microsoft.Compute/virtualMachines/extensions/write,Administrative,Administrative
+Microsoft.Compute/virtualMachines/upgradeVMExtensions/action,Microsoft.Compute/virtualMachines/upgradeVMExtensions/action,Administrative,Administrative
+Microsoft.Compute/virtualMachines/write,Microsoft.Compute/virtualMachines/write,Administrative,Administrative
+Microsoft.Compute/virtualMachineScaleSets/extensions/write,Microsoft.Compute/virtualMachineScaleSets/extensions/write,Administrative,Administrative
+Microsoft.Compute/virtualMachineScaleSets/manualupgrade/action,Microsoft.Compute/virtualMachineScaleSets/manualupgrade/action,Administrative,Administrative
+Microsoft.ContainerService/managedClusters/listClusterAdminCredential/action,Microsoft.ContainerService/managedClusters/listClusterAdminCredential/action,Administrative,Administrative
+Microsoft.ContainerService/managedClusters/listClusterUserCredential/action,Microsoft.ContainerService/managedClusters/listClusterUserCredential/action,Administrative,Administrative
+Microsoft.Diagnostics/register/action,Microsoft.Diagnostics/register/action,Administrative,Administrative
+Microsoft.DocumentDB/databaseAccounts/backup/action,Microsoft.DocumentDb/databaseAccounts/backup/action,Administrative,Administrative
+Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/validate/action,Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/write,Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionProxies/write,Administrative,Administrative
+Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/write,Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/write,Administrative,Administrative
+microsoft.insights/components/metadata/action,microsoft.insights/components/metadata/action,Administrative,Administrative
+microsoft.insights/createNotifications/action,microsoft.insights/createNotifications/action,Administrative,Administrative
+Microsoft.Maintenance/register/action,Microsoft.Maintenance/register/action,Administrative,Administrative
+Microsoft.MarketplaceNotifications/register/action,Microsoft.MarketplaceNotifications/register/action,Administrative,Administrative
+microsoft.network/virtualNetworks/taggedTrafficConsumers/validate/action,microsoft.network/virtualNetworks/taggedTrafficConsumers/validate/action,Administrative,Administrative
+microsoft.network/virtualNetworks/taggedTrafficConsumers/write,microsoft.network/virtualNetworks/taggedTrafficConsumers/write,Administrative,Administrative
+Microsoft.Notebooks/NotebookProxies/delete,Microsoft.Notebooks/NotebookProxies/delete,Administrative,Administrative
+Microsoft.Notebooks/NotebookProxies/listCredentials/action,Microsoft.Notebooks/NotebookProxies/listCredentials/action,Administrative,Administrative
+Microsoft.Notebooks/NotebookProxies/write,Microsoft.Notebooks/NotebookProxies/write,Administrative,Administrative
+Microsoft.Notebooks/register/action,Microsoft.Notebooks/register/action,Administrative,Administrative
+Microsoft.Resources/subscriptions/resourceGroups/Microsoft.PolicyInsights/action,Microsoft.Resources/subscriptions/resourceGroups/Microsoft.PolicyInsights/action,Administrative,Administrative
+Microsoft.SaaS/CheckNameAvailability/action,Microsoft.SaaS/CheckNameAvailability/action,Administrative,Administrative
+Microsoft.Security/assessments/governanceAssignments/write,Microsoft.Security/assessments/governanceAssignments/write,Administrative,Administrative
+Microsoft.Security/serverVulnerabilityAssessmentsSettings/delete,Microsoft.Security/serverVulnerabilityAssessmentsSettings/delete,Administrative,Administrative
+Microsoft.Storage/storageAccounts/listAccountSas/action,Microsoft.Storage/storageAccounts/listAccountSas/action,Administrative,Administrative
+Microsoft.Storage/storageAccounts/ListAccountSas/action,Microsoft.Storage/storageAccounts/ListAccountSas/action,Administrative,Administrative
+Microsoft.Storage/storageAccounts/listKeys/action,Microsoft.Storage/storageAccounts/listKeys/action,Administrative,Administrative
+Microsoft.Storage/storageAccounts/ListServiceSas/action,Microsoft.Storage/storageAccounts/ListServiceSas/action,Administrative,Administrative
+Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/postbackup/action,Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/postbackup/action,Administrative,Administrative
+Microsoft.Synapse/workspaces/AutoResolveIntegrationRuntime/action,Microsoft.Synapse/workspaces/AutoResolveIntegrationRuntime/action,Administrative,Administrative
+Microsoft.Synapse/workspaces/Azure-USE2-Synapse-IntegrationRuntime/action,Microsoft.Synapse/workspaces/Azure-USE2-Synapse-IntegrationRuntime/action,Administrative,Administrative
+Microsoft.Synapse/workspaces/USE2-Synapse-Analytics-SHIR/action,Microsoft.Synapse/workspaces/USE2-Synapse-Analytics-SHIR/action,Administrative,Administrative
+Microsoft.Web/sites/Config/validateUpgradePath/action,Microsoft.Web/sites/Config/validateUpgradePath/action,Administrative,Administrative
+Microsoft.Web/sites/hostruntime/vfs/__init__.py/write,Microsoft.Web/sites/hostruntime/vfs/__init__.py/write,Administrative,Administrative
+Move Resource Group Resources,Microsoft.Resources/subscriptions/resourceGroups/moveResources/action,Administrative,Administrative
+Move Resource Group Resources,Microsoft.Resources/subscriptions/resourceGroups/moveresources/action,Administrative,Administrative
+Newpassword Web Apps,Microsoft.Web/sites/newpassword/action,Administrative,Administrative
+Patch Integration Runtime Node.,Microsoft.Synapse/workspaces/integrationruntimes/nodes/write,Administrative,Administrative
+Pause a Datawarehouse database.,Microsoft.Sql/servers/databases/pause/action,Administrative,Administrative
+Pause SQL Analytics pools.,Microsoft.Synapse/workspaces/sqlPools/pause/action,Administrative,Administrative
+postbackup,microsoft.storagesync/storageSyncServices/syncGroups/cloudEndpoints/postbackup/action,Administrative,Administrative
+postbackup,Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/postbackup/action,Administrative,Administrative
+Pre Validate Enable Protection,Microsoft.RecoveryServices/locations/backupPreValidateProtection/action,Administrative,Administrative
+prebackup,microsoft.storagesync/storageSyncServices/syncGroups/cloudEndpoints/prebackup/action,Administrative,Administrative
+prebackup,Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/prebackup/action,Administrative,Administrative
+Provision Instant Item Recovery for Protected Item,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/provisionInstantItemRecovery/action,Administrative,Administrative
+Publish an Azure Automation runbook draft,Microsoft.Automation/automationAccounts/runbooks/publish/action,Administrative,Administrative
+Purchase Resource,Microsoft.Resources/marketplace/purchase/action,Administrative,Administrative
+Put blob container,Microsoft.Storage/storageAccounts/blobServices/containers/write,Administrative,Administrative
+Put blob service properties,Microsoft.Storage/storageAccounts/blobServices/write,Administrative,Administrative
+Put File Service Properties,Microsoft.Storage/storageAccounts/fileservices/write,Administrative,Administrative
+Put File Share,Microsoft.Storage/storageAccounts/fileServices/shares/write,Administrative,Administrative
+Put Private DNS Zone Group,Microsoft.Network/privateEndpoints/privateDnsZoneGroups/write,Administrative,Administrative
+Put Private Endpoint Connection,Microsoft.Storage/storageAccounts/privateEndpointConnections/write,Administrative,Administrative
+Put Private Endpoint Connection Proxies,Microsoft.Storage/storageAccounts/privateEndpointConnectionProxies/write,Administrative,Administrative
+Put storage account management policies,Microsoft.Storage/storageAccounts/managementPolicies/write,Administrative,Administrative
+Puts an Azure Automation DSC's content,Microsoft.Automation/automationAccounts/configurations/write,Administrative,Administrative
+Read database account readonly keys,Microsoft.DocumentDB/databaseAccounts/readonlykeys/action,Administrative,Administrative
+Reads avaible SKUs for an subscription.,Microsoft.CognitiveServices/locations/checkSkuAvailability/action,Administrative,Administrative
+Reapply a virtual machine's current model,Microsoft.Compute/virtualMachines/Reapply/action,Administrative,Administrative
+Redeploy Virtual Machine,Microsoft.Compute/virtualMachines/Redeploy/action,Administrative,Administrative
+Refresh container,Microsoft.RecoveryServices/vaults/backupFabrics/refreshContainers/action,Administrative,Administrative
+Regenerate auth key of an Integration Runtime,Microsoft.Synapse/workspaces/integrationruntimes/regenerateAuthKey/action,Administrative,Administrative
+Regenerate Storage Account Keys,Microsoft.Storage/storageAccounts/regenerateKey/action,Administrative,Administrative
+Register a subscription to a resource provider.,Microsoft.OperationalInsights/register/action,Administrative,Administrative
+Register Microsoft Container Instance,Microsoft.ContainerInstance/register/action,Administrative,Administrative
+Register Microsoft DocumentDB resource provider,Microsoft.DocumentDB/register/action,Administrative,Administrative
+Register Microsoft.Insights,Microsoft.Insights/register/action,Administrative,Administrative
+Register Microsoft.Web resource provider,Microsoft.Web/register/action,Administrative,Administrative
+Register Provider Feature,Microsoft.Features/providers/features/register/action,Administrative,Administrative
+Register Resource Provider,Microsoft.Logic/register/action,Administrative,Administrative
+Register Subscription,microsoft.iotsecurity/register/action,Administrative,Administrative
+Register Subscription,Microsoft.Network/register/action,Administrative,Administrative
+Register Subscription,microsoft.security/register/action,Administrative,Administrative
+Register Subscription,Microsoft.Security/register/action,Administrative,Administrative
+Register Subscription for Container Service,Microsoft.ContainerService/register/action,Administrative,Administrative
+Register Subscription for VMHealth,Microsoft.WorkloadMonitor/register/action,Administrative,Administrative
+Register the Container Registry Resource Provider,Microsoft.ContainerRegistry/register/action,Administrative,Administrative
+Register the Microsoft.HybridContainerService,microsoft.hybridcontainerservice/register/action,Administrative,Administrative
+Register the Microsoft.ServiceLinker,Microsoft.ServiceLinker/register/action,Administrative,Administrative
+Register the Search Resource Provider,Microsoft.Search/register/action,Administrative,Administrative
+Register with the Provider,Microsoft.ResourceHealth/register/action,Administrative,Administrative
+Registers the Azure Subscription with Microsoft.VisualStudio provider,Microsoft.VisualStudio/register/action,Administrative,Administrative
+Registers the Microsoft SQL Database Resource Provider,Microsoft.Sql/register/action,Administrative,Administrative
+Registers the Storage Resource Provider,Microsoft.Storage/register/action,Administrative,Administrative
+Reimage Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/reimage/action,Administrative,Administrative
+Remove API,Microsoft.ApiManagement/service/apis/delete,Administrative,Administrative
+Remove API from product,Microsoft.ApiManagement/service/products/apis/delete,Administrative,Administrative
+Remove API operation,Microsoft.ApiManagement/service/apis/operations/delete,Administrative,Administrative
+Remove API Operation policy configuration from policies,Microsoft.ApiManagement/service/apis/operations/policies/delete,Administrative,Administrative
+Remove language extensions action,Microsoft.Synapse/workspaces/kustoPools/removeLanguageExtensions/action,Administrative,Administrative
+Remove product,Microsoft.ApiManagement/service/products/delete,Administrative,Administrative
+Replace all Ip Firewall Rules for the Workspace.,Microsoft.Synapse/workspaces/replaceAllIpFirewallRules/action,Administrative,Administrative
+Resolve private link service id,Microsoft.ContainerService/managedClusters/resolvePrivateLinkServiceId/action,Administrative,Administrative
+Restart compute resource in Machine Learning Services Workspace,Microsoft.MachineLearningServices/workspaces/computes/restart/action,Administrative,Administrative
+Restart Virtual Machine,Microsoft.Compute/virtualMachines/restart/action,Administrative,Administrative
+Restart Virtual Machine instance in a Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/virtualMachines/restart/action,Administrative,Administrative
+Restart Web App,Microsoft.Web/sites/restart/action,Administrative,Administrative
+Restore Recovery Points,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/restore/action,Administrative,Administrative
+Resume a Datawarehouse database.,Microsoft.Sql/servers/databases/resume/action,Administrative,Administrative
+Resume SQL Analytics pools.,Microsoft.Synapse/workspaces/sqlPools/resume/action,Administrative,Administrative
+Retrieve boot diagnostic logs blob URIs,Microsoft.Compute/virtualMachines/retrieveBootDiagnosticsData/action,Administrative,Administrative
+Returns Storage Account SAS Token,Microsoft.Storage/storageAccounts/listAccountSas/action,Administrative,Administrative
+Returns Storage Account SAS Token,Microsoft.Storage/storageAccounts/ListAccountSas/action,Administrative,Administrative
+Returns Storage Service SAS Token,Microsoft.Storage/storageAccounts/ListServiceSas/action,Administrative,Administrative
+Revoke Disk SAS URI,Microsoft.Compute/disks/endGetAccess/action,Administrative,Administrative
+Revoke incremental DiskRestorePoint SAS URI,Microsoft.Compute/restorePointCollections/restorePoints/diskRestorePoints/endGetAccess/action,Administrative,Administrative
+Revoke Instant Item Recovery for Protected Item,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/revokeInstantItemRecovery/action,Administrative,Administrative
+Revoke Snapshot SAS URI,Microsoft.Compute/snapshots/endGetAccess/action,Administrative,Administrative
+Run Command on a Virtual Machine instance in a Virtual Machine Scale Set.,Microsoft.Compute/virtualMachineScaleSets/virtualmachines/runCommand/action,Administrative,Administrative
+Run Command on Virtual Machine,Microsoft.Compute/virtualMachines/runCommand/action,Administrative,Administrative
+Scheduled Maintenance,Scheduled Maintenance,Administrative,Administrative
+Set API operation policy configuration,Microsoft.ApiManagement/service/apis/operations/policies/write,Administrative,Administrative
+Set API policy configuration,Microsoft.ApiManagement/service/apis/policies/write,Administrative,Administrative
+Set Dashboard,Microsoft.Portal/dashboards/write,Administrative,Administrative
+Set Data Warehouse maintenance windows.,Microsoft.Sql/servers/databases/maintenanceWindows/write,Administrative,Administrative
+Set database blob auditing policy,Microsoft.Sql/servers/databases/auditingSettings/write,Administrative,Administrative
+Set policy fragment,Microsoft.ApiManagement/service/policyfragments/write,Administrative,Administrative
+Set policy fragment,Microsoft.ApiManagement/service/policyFragments/write,Administrative,Administrative
+Set Product policy configuration,Microsoft.ApiManagement/service/products/policies/write,Administrative,Administrative
+Set Search Service,Microsoft.Search/searchServices/write,Administrative,Administrative
+Set server blob auditing policy,Microsoft.Sql/servers/auditingsettings/write,Administrative,Administrative
+Set server blob auditing policy,Microsoft.Sql/servers/auditingSettings/write,Administrative,Administrative
+Set server DevOps audit policy,Microsoft.Sql/servers/devOpsAuditingSettings/write,Administrative,Administrative
+Set server vulnerability assessment,Microsoft.Sql/servers/vulnerabilityassessments/write,Administrative,Administrative
+Set server vulnerability assessment,Microsoft.Sql/servers/vulnerabilityAssessments/write,Administrative,Administrative
+Set tenant policy configuration or Update tenant access information or Update tenant access information,Microsoft.ApiManagement/service/tenant/write,Administrative,Administrative
+Set Workflow,Microsoft.Logic/workflows/write,Administrative,Administrative
+Sets schema used by the API,Microsoft.ApiManagement/service/apis/schemas/write,Administrative,Administrative
+Sets the properties for a specific workload group.,Microsoft.Sql/servers/databases/workloadGroups/write,Administrative,Administrative
+Sets the properties for a specific workload group.,Microsoft.Synapse/workspaces/sqlPools/workloadGroups/write,Administrative,Administrative
+Start compute resource in Machine Learning Services Workspace,Microsoft.MachineLearningServices/workspaces/computes/start/action,Administrative,Administrative
+Start Container Group,Microsoft.ContainerInstance/containerGroups/start/action,Administrative,Administrative
+Start Managed Cluster,Microsoft.ContainerService/managedClusters/start/action,Administrative,Administrative
+Start Virtual Machine,Microsoft.Compute/virtualMachines/start/action,Administrative,Administrative
+Start Web App,Microsoft.Web/sites/start/action,Administrative,Administrative
+Stop compute resource in Machine Learning Services Workspace,Microsoft.MachineLearningServices/workspaces/computes/stop/action,Administrative,Administrative
+Stop Managed Cluster,Microsoft.ContainerService/managedClusters/stop/action,Administrative,Administrative
+Stop Packet Capture,Microsoft.Network/networkWatchers/packetCaptures/stop/action,Administrative,Administrative
+Stop Web App,Microsoft.Web/sites/stop/action,Administrative,Administrative
+Subscribe to product or Update subscription,Microsoft.ApiManagement/service/subscriptions/write,Administrative,Administrative
+subscriptions/f5c54685-b042-4885-8436-7914f7c53e53/Prod-USE2-Servers-ResourceGroup/Microsoft.Automation/az-mgmt-automation/write,subscriptions/f5c54685-b042-4885-8436-7914f7c53e53/Prod-USE2-Servers-ResourceGroup/Microsoft.Automation/az-mgmt-automation/write,Administrative,Administrative
+Sync Web Apps,Microsoft.Web/sites/sync/action,Administrative,Administrative
+Sync Web Apps Function Triggers,Microsoft.Web/sites/host/sync/action,Administrative,Administrative
+Sync Web Apps Function Triggers,Microsoft.Web/sites/syncfunctiontriggers/action,Administrative,Administrative
+Trigger Run,Microsoft.Logic/workflows/triggers/run/action,Administrative,Administrative
+Update Access Policy,Microsoft.KeyVault/vaults/accessPolicies/write,Administrative,Administrative
+Update App Service Network Configuration,Microsoft.Web/sites/networkConfig/write,Administrative,Administrative
+Update automatic tuning settings for the server,Microsoft.Sql/servers/automaticTuning/write,Administrative,Administrative
+Update Azure SQL Server Encryption Protector,Microsoft.Sql/servers/encryptionProtector/write,Administrative,Administrative
+Update compute idle shutdown settings in Machine Learning Services Workspace,Microsoft.MachineLearningServices/workspaces/computes/updateIdleShutdownSetting/action,Administrative,Administrative
+Update database account,Microsoft.DocumentDb/databaseAccounts/write,Administrative,Administrative
+Update hosting plan,Microsoft.Web/serverfarms/write,Administrative,Administrative
+Update hosting plan,Microsoft.Web/serverFarms/write,Administrative,Administrative
+Update insights component,Microsoft.Insights/components/write,Administrative,Administrative
+Update insights component,microsoft.insights/components/write,Administrative,Administrative
+Update Key Vault,Microsoft.KeyVault/vaults/write,Administrative,Administrative
+Update logical database Transparent Data Encryption,Microsoft.Sql/servers/databases/transparentDataEncryption/write,Administrative,Administrative
+Update pricing settings,Microsoft.Security/pricings/write,Administrative,Administrative
+Update resource group,Microsoft.Resources/subscriptions/resourcegroups/write,Administrative,Administrative
+Update resource group,Microsoft.Resources/subscriptions/resourceGroups/write,Administrative,Administrative
+Update server threat detection policy,Microsoft.Sql/servers/securityalertpolicies/write,Administrative,Administrative
+Update server threat detection policy,Microsoft.Sql/servers/securityAlertPolicies/write,Administrative,Administrative
+Update SQL database,Microsoft.Sql/servers/databases/write,Administrative,Administrative
+Update SQL server,Microsoft.Sql/servers/write,Administrative,Administrative
+Update SQL server firewall rules,Microsoft.Sql/servers/firewallRules/write,Administrative,Administrative
+Update SQL server firewall rules,Microsoft.Sql/servers/firewallrules/write,Administrative,Administrative
+Update the server Advanced Threat Protection settings,Microsoft.Sql/servers/advancedThreatProtectionSettings/write,Administrative,Administrative
+Update Trusted Service Bypass configuration for workspace.,Microsoft.Synapse/workspaces/trustedServiceBypassConfiguration/write,Administrative,Administrative
+Update Web App Source Control Configuration,Microsoft.Web/sites/sourcecontrols/write,Administrative,Administrative
+Update Web Apps Functions,Microsoft.Web/sites/functions/write,Administrative,Administrative
+Update web sites config,Microsoft.Web/sites/config/write,Administrative,Administrative
+Update web sites config,Microsoft.Web/sites/Config/write,Administrative,Administrative
+Update website,Microsoft.Web/sites/write,Administrative,Administrative
+Updates a short term retention policy,Microsoft.Sql/servers/databases/backupShortTermRetentionPolicies/write,Administrative,Administrative
+Updates the Advanced Threat Protection Settings,Microsoft.Security/advancedThreatProtectionSettings/write,Administrative,Administrative
+Updates the properties of a Virtual Machine in a Virtual Machine Scale Set,Microsoft.Compute/virtualMachineScaleSets/virtualMachines/write,Administrative,Administrative
+UpdateWebSite,UpdateWebSite,Administrative,Administrative
+Upgrade an Integration Runtime,Microsoft.Synapse/workspaces/integrationruntimes/upgrade/action,Administrative,Administrative
+Validate ,Microsoft.Web/validate/action,Administrative,Administrative
+Validate a Private Endpoint Connection Proxy,Microsoft.KeyVault/vaults/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate Azure SQL Database Private Endpoint Connection Creation by NRP,Microsoft.Sql/servers/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate Deployment,Microsoft.Resources/deployments/validate/action,Administrative,Administrative
+Validate Features,Microsoft.RecoveryServices/locations/backupValidateFeatures/action,Administrative,Administrative
+Validate Move Resource Group Resources,Microsoft.Resources/subscriptions/resourceGroups/validateMoveResources/action,Administrative,Administrative
+Validate Operation on Protected Item,Microsoft.RecoveryServices/vaults/backupTriggerValidateOperation/action,Administrative,Administrative
+Validate Private Endpoint Connection Proxies,Microsoft.Storage/storageAccounts/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate Private Endpoint Connection Proxy,Microsoft.ContainerRegistry/registries/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate Private Endpoint Connection Proxy,Microsoft.EventHub/namespaces/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate Private Endpoint Connection Proxy,Microsoft.Purview/accounts/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate private endpoint connection proxy,Microsoft.Synapse/workspaces/KustoPools/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Validate Tagged Traffic Consumer,microsoft.network/virtualNetworks/taggedTrafficConsumers/validate/action,Administrative,Administrative
+Validate Tagged Traffic Consumer,Microsoft.Network/virtualNetworks/taggedTrafficConsumers/validate/action,Administrative,Administrative
+Validate Tagged Traffic Consumer,microsoft.network/virtualnetworks/taggedTrafficConsumers/validate/action,Administrative,Administrative
+Validates Private Endpoint Connection Proxy,Microsoft.Synapse/workspaces/privateEndpointConnectionProxies/validate/action,Administrative,Administrative
+Verify Ip Flow,Microsoft.Network/networkWatchers/ipFlowVerify/action,Administrative,Administrative
+Write a Cluster principal assignments resource,Microsoft.Kusto/clusters/principalAssignments/write,Administrative,Administrative
+Write a Cluster principal assignments resource,Microsoft.Synapse/workspaces/kustoPools/principalAssignments/write,Administrative,Administrative
+Write a database principal assignments resource,Microsoft.Kusto/Clusters/databases/principalAssignments/write,Administrative,Administrative
+Write a database principal assignments resource,Microsoft.Synapse/workspaces/kustoPools/databases/principalAssignments/write,Administrative,Administrative
+Write an Azure Automation runbook draft,Microsoft.Automation/automationAccounts/runbooks/draft/write,Administrative,Administrative
+Write an Azure Automation runbook draft,microsoft.automation/automationAccounts/runbooks/draft/write,Administrative,Administrative
+Write cluster resource,Microsoft.Synapse/workspaces/kustoPools/write,Administrative,Administrative
+Write cluster resource,Microsoft.Synapse/workspaces/kustopools/write,Administrative,Administrative
+Write Data Share Account,Microsoft.DataShare/accounts/write,Administrative,Administrative
+Write Data Share DataSet,Microsoft.DataShare/accounts/shares/datasets/write,Administrative,Administrative
+Write Data Share DataSetMapping,Microsoft.DataShare/accounts/shareSubscriptions/dataSetMappings/write,Administrative,Administrative
+Write Data Share Invitations,Microsoft.DataShare/accounts/shares/invitations/write,Administrative,Administrative
+Write Data Share Share,Microsoft.DataShare/accounts/shares/write,Administrative,Administrative
+Write Data Share ShareSubscription,Microsoft.DataShare/accounts/shareSubscriptions/write,Administrative,Administrative
+Write Data Share Synchronization Setting,Microsoft.DataShare/accounts/shares/synchronizationSettings/write,Administrative,Administrative
+Write Data Share Trigger,Microsoft.DataShare/accounts/shareSubscriptions/triggers/write,Administrative,Administrative
+Write database resource,Microsoft.Kusto/clusters/databases/write,Administrative,Administrative
+Write database resource,Microsoft.Synapse/workspaces/kustopools/databases/write,Administrative,Administrative
+Write database resource,Microsoft.Synapse/workspaces/kustoPools/databases/write,Administrative,Administrative
+Write deployment script,Microsoft.Resources/deploymentScripts/write,Administrative,Administrative
+Write EventSubscription,Microsoft.EventGrid/eventSubscriptions/write,Administrative,Administrative
+Write private endpoint connection,Microsoft.Synapse/workspaces/KustoPools/privateEndpointConnections/write,Administrative,Administrative
+Write Private Endpoint Connection Proxy,Microsoft.Purview/accounts/privateEndpointConnectionProxies/write,Administrative,Administrative
+Write private endpoint connection proxy,Microsoft.Synapse/workspaces/KustoPools/privateEndpointConnectionProxies/write,Administrative,Administrative
+Write System Topic,Microsoft.EventGrid/systemTopics/write,Administrative,Administrative
+Write tags,Microsoft.Resources/tags/write,Administrative,Administrative
+Write template spec,Microsoft.Resources/templateSpecs/write,Administrative,Administrative
+Writes Support Ticket,Microsoft.Support/supportTickets/write,Administrative,Administrative
+,Microsoft.EdgeOrder/register/action,Administrative,Administrative
+,Microsoft.Storage/storageAccounts/encryptionScopes/write,Administrative,Administrative
+'audit' Policy action.,Microsoft.Authorization/policies/audit/action,Policy,Policy
+'auditIfNotExists' Policy action.,Microsoft.Authorization/policies/auditIfNotExists/action,Policy,Policy
+'deployIfNotExists' Policy action.,Microsoft.Authorization/policies/deployIfNotExists/action,Policy,Policy
+Microsoft.Authorization/policies/audit/action,Microsoft.Authorization/policies/audit/action,Policy,Policy
+Microsoft.Authorization/policies/auditIfNotExists/action,Microsoft.Authorization/policies/auditIfNotExists/action,Policy,Policy
+New recommendation is available,Microsoft.Advisor/recommendations/available/action,Recommendation,Recommendation
+Health Event Activated,Microsoft.Resourcehealth/healthevent/Activated/action,ResourceHealth,ResourceHealth
+Health Event InProgress,Microsoft.Resourcehealth/healthevent/InProgress/action,ResourceHealth,ResourceHealth
+Health Event Resolved,Microsoft.Resourcehealth/healthevent/Resolved/action,ResourceHealth,ResourceHealth
+Health Event Updated,Microsoft.Resourcehealth/healthevent/Updated/action,ResourceHealth,ResourceHealth
+Microsoft.Resourcehealth/healthevent/Activated/action,Microsoft.Resourcehealth/healthevent/Activated/action,ResourceHealth,ResourceHealth
+Microsoft.Resourcehealth/healthevent/Updated/action,Microsoft.Resourcehealth/healthevent/Updated/action,ResourceHealth,ResourceHealth
+Activate Alert,Microsoft.Security/locations/alerts/activate/action,Security,Security
+Microsoft.ServiceHealth/incident/action,Microsoft.ServiceHealth/incident/action,ServiceHealth,ServiceHealth
+Microsoft.ServiceHealth/maintenance/action,Microsoft.ServiceHealth/maintenance/action,ServiceHealth,ServiceHealth
+,BackupWebSite,,Administrative
+,CertificateOrderRenewed,,Administrative
+,CertificateOrderStateChanged,,Administrative
+,MICROSOFT.ADVISOR/GENERATERECOMMENDATIONS/ACTION,,Administrative
+,MICROSOFT.ALERTSMANAGEMENT/ALERTS/CHANGESTATE/ACTION,,Administrative
+,MICROSOFT.ALERTSMANAGEMENT/SMARTDETECTORALERTRULES/DELETE,,Administrative
+,MICROSOFT.ALERTSMANAGEMENT/SMARTDETECTORALERTRULES/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/REGISTER/ACTION,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/DELETE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/OPERATIONS/DELETE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/OPERATIONS/POLICIES/DELETE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/OPERATIONS/POLICIES/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/OPERATIONS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/POLICIES/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/SCHEMAS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/APIVERSIONSETS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/BACKENDS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/NAMEDVALUES/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/POLICYFRAGMENTS/LISTREFERENCES/ACTION,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/POLICYFRAGMENTS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PORTALSETTINGS/LISTSECRETS/ACTION,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PRODUCTS/APIS/DELETE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PRODUCTS/APIS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PRODUCTS/DELETE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PRODUCTS/GROUPS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PRODUCTS/POLICIES/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/PRODUCTS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/SUBSCRIPTIONS/LISTSECRETS/ACTION,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/SUBSCRIPTIONS/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/TENANT/LISTSECRETS/ACTION,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/TENANT/WRITE,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/USERS/TOKEN/ACTION,,Administrative
+,Microsoft.ApiManagement/service/write,,Administrative
+,MICROSOFT.APIMANAGEMENT/SERVICE/WRITE,,Administrative
+,MICROSOFT.APPPLATFORM/REGISTER/ACTION,,Administrative
+,MICROSOFT.AUTHORIZATION/DENYASSIGNMENTS/DELETE,,Administrative
+,MICROSOFT.AUTHORIZATION/DENYASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.AUTHORIZATION/LOCKS/DELETE,,Administrative
+,MICROSOFT.AUTHORIZATION/LOCKS/WRITE,,Administrative
+,MICROSOFT.AUTHORIZATION/POLICYASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.AUTHORIZATION/POLICYEXEMPTIONS/WRITE,,Administrative
+,MICROSOFT.AUTHORIZATION/POLICYSETDEFINITIONS/WRITE,,Administrative
+,MICROSOFT.AUTHORIZATION/ROLEASSIGNMENTS/DELETE,,Administrative
+,MICROSOFT.AUTHORIZATION/ROLEASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.AUTHORIZATION/ROLEDEFINITIONS/DELETE,,Administrative
+,MICROSOFT.AUTHORIZATION/ROLEDEFINITIONS/WRITE,,Administrative
+,MICROSOFT.AUTOMANAGE/CONFIGURATIONPROFILES/WRITE,,Administrative
+,MICROSOFT.AUTOMANAGE/REGISTER/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CERTIFICATES/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CERTIFICATES/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/COMPILATIONJOBS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CONFIGURATIONS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CONFIGURATIONS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CONNECTIONS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CONVERTGRAPHRUNBOOKCONTENT/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CREDENTIALS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/CREDENTIALS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/HYBRIDRUNBOOKWORKERGROUPS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/HYBRIDRUNBOOKWORKERGROUPS/GETWORKERCOUNT/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/HYBRIDRUNBOOKWORKERGROUPS/HYBRIDRUNBOOKWORKERS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/HYBRIDRUNBOOKWORKERGROUPS/HYBRIDRUNBOOKWORKERS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/HYBRIDRUNBOOKWORKERGROUPS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/JOBS/STOP/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/JOBS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/JOBSCHEDULES/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/LISTBUILTINMODULES/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/MODULES/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/MODULES/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/NODECONFIGURATIONS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/NODECONFIGURATIONS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/NODES/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/NODES/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/PYTHON3PACKAGES/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/PYTHON3PACKAGES/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/RUNBOOKS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/RUNBOOKS/DRAFT/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/RUNBOOKS/DRAFT/STOP/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/RUNBOOKS/DRAFT/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/RUNBOOKS/PUBLISH/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/RUNBOOKS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/SCHEDULES/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/SCHEDULES/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/SOFTWAREUPDATECONFIGURATIONMACHINERUNS/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/SOFTWAREUPDATECONFIGURATIONRUNS/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/SOFTWAREUPDATECONFIGURATIONS/DELETE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/SOFTWAREUPDATECONFIGURATIONS/WRITE,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/WEBHOOKS/ACTION,,Administrative
+,MICROSOFT.AUTOMATION/AUTOMATIONACCOUNTS/WRITE,,Administrative
+,MICROSOFT.BING/LOCATIONS/CHECKSKUAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.BLUEPRINT/BLUEPRINTASSIGNMENTS/DELETE,,Administrative
+,MICROSOFT.BLUEPRINT/BLUEPRINTASSIGNMENTS/WHOISBLUEPRINT/ACTION,,Administrative
+,MICROSOFT.BLUEPRINT/BLUEPRINTASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.BLUEPRINT/BLUEPRINTS/ARTIFACTS/WRITE,,Administrative
+,MICROSOFT.BLUEPRINT/BLUEPRINTS/VERSIONS/WRITE,,Administrative
+,MICROSOFT.BLUEPRINT/BLUEPRINTS/WRITE,,Administrative
+,MICROSOFT.BLUEPRINT/REGISTER/ACTION,,Administrative
+,MICROSOFT.BOTSERVICE/BOTSERVICES/CHANNELS/LISTCHANNELWITHKEYS/ACTION,,Administrative
+,MICROSOFT.BOTSERVICE/BOTSERVICES/CHANNELS/WRITE,,Administrative
+,MICROSOFT.BOTSERVICE/BOTSERVICES/DELETE,,Administrative
+,MICROSOFT.BOTSERVICE/BOTSERVICES/WRITE,,Administrative
+,MICROSOFT.CACHE/REGISTER/ACTION,,Administrative
+,MICROSOFT.CAPACITY/LISTSKUS/ACTION,,Administrative
+,MICROSOFT.CDN/REGISTER/ACTION,,Administrative
+,MICROSOFT.CERTIFICATEREGISTRATION/CERTIFICATEORDERS/RETRIEVECERTIFICATEACTIONS/ACTION,,Administrative
+,MICROSOFT.CERTIFICATEREGISTRATION/CERTIFICATEORDERS/VERIFYDOMAINOWNERSHIP/ACTION,,Administrative
+,MICROSOFT.CHANGEANALYSIS/CHANGESNAPSHOTS/ACTION,,Administrative
+,MICROSOFT.CHANGEANALYSIS/REGISTER/ACTION,,Administrative
+,MICROSOFT.CHANGEANALYSIS/RESOURCECHANGES/ACTION,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/DELETE,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/EXTENSIONS/WRITE,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SERVICECERTIFICATES/DELETE,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SLOTS/DELETE,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SLOTS/ROLES/EXTENSIONREFERENCES/WRITE,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SLOTS/ROLES/ROLEINSTANCES/DOWNLOADREMOTEDESKTOPCONNECTIONFILE/ACTION,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SLOTS/START/ACTION,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SLOTS/STOP/ACTION,,Administrative
+,MICROSOFT.CLASSICCOMPUTE/DOMAINNAMES/SLOTS/WRITE,,Administrative
+,MICROSOFT.CLASSICSTORAGE/STORAGEACCOUNTS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.COGNITIVESERVICES/ACCOUNTS/DELETE,,Administrative
+,MICROSOFT.COGNITIVESERVICES/ACCOUNTS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.COGNITIVESERVICES/ACCOUNTS/WRITE,,Administrative
+,MICROSOFT.COGNITIVESERVICES/LOCATIONS/CHECKSKUAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.COMPUTE/AVAILABILITYSETS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/AVAILABILITYSETS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/DISKS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/DISKS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/GALLERIES/DELETE,,Administrative
+,MICROSOFT.COMPUTE/GALLERIES/IMAGES/DELETE,,Administrative
+,MICROSOFT.COMPUTE/GALLERIES/IMAGES/VERSIONS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/GALLERIES/IMAGES/VERSIONS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/GALLERIES/IMAGES/WRITE,,Administrative
+,MICROSOFT.COMPUTE/GALLERIES/WRITE,,Administrative
+,MICROSOFT.COMPUTE/IMAGES/DELETE,,Administrative
+,MICROSOFT.COMPUTE/IMAGES/WRITE,,Administrative
+,MICROSOFT.COMPUTE/LOCATIONS/DIAGNOSTICS/REGISTERSTORAGECONFIGURATION/ACTION,,Administrative
+,MICROSOFT.COMPUTE/LOCATIONS/DIAGNOSTICS/VALIDATESTORAGECONFIGURATION/ACTION,,Administrative
+,MICROSOFT.COMPUTE/REGISTER/ACTION,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/RESTOREPOINTS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/RESTOREPOINTS/DISKRESTOREPOINTS/BEGINGETACCESS/ACTION,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/RESTOREPOINTS/DISKRESTOREPOINTS/ENDGETACCESS/ACTION,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/RESTOREPOINTS/RETRIEVESASURIS/ACTION,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/RESTOREPOINTS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/RESTOREPOINTCOLLECTIONS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/SNAPSHOTS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/SNAPSHOTS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/SSHPUBLICKEYS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/SSHPUBLICKEYS/GENERATEKEYPAIR/ACTION,,Administrative
+,MICROSOFT.COMPUTE/SSHPUBLICKEYS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/ASSESSPATCHES/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/CONVERTTOMANAGEDDISKS/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/DEALLOCATE/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/DELETE,,Administrative
+,Microsoft.Compute/virtualMachines/evictSpotVM/action,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/EXTENSIONS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/EXTENSIONS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/GENERALIZE/ACTION,,Administrative
+,Microsoft.Compute/virtualMachines/installPatches/action,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/INSTALLPATCHES/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/PERFORMMAINTENANCE/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/POWEROFF/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/REAPPLY/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/REDEPLOY/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/RESTART/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/RETRIEVEBOOTDIAGNOSTICSDATA/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/RUNCOMMAND/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/START/ACTION,,Administrative
+,Microsoft.Compute/virtualMachines/upgradeVMExtensions/action,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINES/WRITE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/DEALLOCATE/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/DELETE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/DELETE/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/EXTENSIONS/WRITE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/MANUALUPGRADE/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/REIMAGE/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/START/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/VIRTUALMACHINES/RESTART/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/VIRTUALMACHINES/RUNCOMMAND/ACTION,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/VIRTUALMACHINES/WRITE,,Administrative
+,MICROSOFT.COMPUTE/VIRTUALMACHINESCALESETS/WRITE,,Administrative
+,MICROSOFT.CONSUMPTION/BUDGETS/WRITE,,Administrative
+,MICROSOFT.CONTAINERINSTANCE/CONTAINERGROUPS/DELETE,,Administrative
+,MICROSOFT.CONTAINERINSTANCE/CONTAINERGROUPS/START/ACTION,,Administrative
+,MICROSOFT.CONTAINERINSTANCE/CONTAINERGROUPS/WRITE,,Administrative
+,MICROSOFT.CONTAINERINSTANCE/REGISTER/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTER/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/DELETE,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/IMPORTIMAGE/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/LISTBUILDSOURCEUPLOADURL/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/LISTCREDENTIALS/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/RUNS/LISTLOGSASURL/ACTION,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/TASKRUNS/WRITE,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/WEBHOOKS/DELETE,,Administrative
+,MICROSOFT.CONTAINERREGISTRY/REGISTRIES/WRITE,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/AGENTPOOLS/DELETE,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/AGENTPOOLS/WRITE,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/DELETE,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/LISTCLUSTERADMINCREDENTIAL/ACTION,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/LISTCLUSTERMONITORINGUSERCREDENTIAL/ACTION,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/LISTCLUSTERUSERCREDENTIAL/ACTION,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/RESOLVEPRIVATELINKSERVICEID/ACTION,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/START/ACTION,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/STOP/ACTION,,Administrative
+,MICROSOFT.CONTAINERSERVICE/MANAGEDCLUSTERS/WRITE,,Administrative
+,MICROSOFT.CONTAINERSERVICE/REGISTER/ACTION,,Administrative
+,MICROSOFT.CUSTOMPROVIDERS/REGISTER/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/DATAFACTORIES/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/ADDDATAFLOWTODEBUGSESSION/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/CANCELSANDBOXPIPELINERUN/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/CREATEDATAFLOWDEBUGSESSION/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/DATAFLOWS/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/DATAFLOWS/WRITE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/DATASETS/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/DATASETS/WRITE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/DELETEDATAFLOWDEBUGSESSION/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/ENUMERATEITEMS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/EXECUTEDATAFLOWDEBUGCOMMAND/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/EXECUTEQUERY/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/GETDATAPLANEACCESS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/CREATEEXPRESSSHIRINSTALLLINK/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/GETOBJECTMETADATA/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/LISTAUTHKEYS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/NODES/IPADDRESS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/REFRESHOBJECTMETADATA/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/UPGRADE/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/INTEGRATIONRUNTIMES/WRITE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/LINKEDSERVICES/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/LINKEDSERVICES/WRITE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/PIPELINERUNS/CANCEL/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/PIPELINES/CREATERUN/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/PIPELINES/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/PIPELINES/SANDBOX/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/PIPELINES/WRITE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/QUERYDATAFLOWDEBUGSESSIONS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TESTCONNECTIVITY/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/DELETE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/GETEVENTSUBSCRIPTIONSTATUS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/START/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/STOP/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/SUBSCRIBETOEVENTS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/UNSUBSCRIBEFROMEVENTS/ACTION,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/TRIGGERS/WRITE,,Administrative
+,MICROSOFT.DATAFACTORY/FACTORIES/WRITE,,Administrative
+,MICROSOFT.DATALAKEANALYTICS/REGISTER/ACTION,,Administrative
+,MICROSOFT.DATALAKESTORE/REGISTER/ACTION,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/DELETE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARES/DATASETS/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARES/DELETE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARES/INVITATIONS/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARES/SYNCHRONIZATIONSETTINGS/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARES/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/DATASETMAPPINGS/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/LISTSOURCESHARESYNCHRONIZATIONSETTINGS/ACTION,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/LISTSYNCHRONIZATIONDETAILS/ACTION,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/LISTSYNCHRONIZATIONS/ACTION,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/SYNCHRONIZE/ACTION,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/TRIGGERS/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/SHARESUBSCRIPTIONS/WRITE,,Administrative
+,MICROSOFT.DATASHARE/ACCOUNTS/WRITE,,Administrative
+,MICROSOFT.DBFORMARIADB/REGISTER/ACTION,,Administrative
+,MICROSOFT.DBFORMYSQL/REGISTER/ACTION,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/FLEXIBLESERVERS/DELETE,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/FLEXIBLESERVERS/WRITE,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/LOCATIONS/CHECKVIRTUALNETWORKSUBNETUSAGE/ACTION,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/REGISTER/ACTION,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/SERVERS/DELETE,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/SERVERS/FIREWALLRULES/WRITE,,Administrative
+,MICROSOFT.DBFORPOSTGRESQL/SERVERS/WRITE,,Administrative
+,MICROSOFT.DEVICES/IOTHUBS/DELETE,,Administrative
+,MICROSOFT.DEVICES/IOTHUBS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.DEVICES/IOTHUBS/WRITE,,Administrative
+,MICROSOFT.DEVTESTLAB/SCHEDULES/DELETE,,Administrative
+,MICROSOFT.DEVTESTLAB/SCHEDULES/WRITE,,Administrative
+,MICROSOFT.DIAGNOSTICS/REGISTER/ACTION,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/BACKUP/ACTION,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/DELETE,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/LISTCONNECTIONSTRINGS/ACTION,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/PRIVATEENDPOINTCONNECTIONS/WRITE,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/READONLYKEYS/ACTION,,Administrative
+,MICROSOFT.DOCUMENTDB/DATABASEACCOUNTS/WRITE,,Administrative
+,MICROSOFT.DOCUMENTDB/REGISTER/ACTION,,Administrative
+,MICROSOFT.DOMAINREGISTRATION/REGISTER/ACTION,,Administrative
+,MICROSOFT.EDGEORDER/REGISTER/ACTION,,Administrative
+,MICROSOFT.EVENTGRID/EVENTSUBSCRIPTIONS/DELETE,,Administrative
+,MICROSOFT.EVENTGRID/EVENTSUBSCRIPTIONS/WRITE,,Administrative
+,MICROSOFT.EVENTGRID/SYSTEMTOPICS/DELETE,,Administrative
+,MICROSOFT.EVENTGRID/SYSTEMTOPICS/WRITE,,Administrative
+,MICROSOFT.EVENTHUB/NAMESPACES/AUTHORIZATIONRULES/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.EVENTHUB/NAMESPACES/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.EVENTHUB/NAMESPACES/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.EVENTHUB/NAMESPACES/PRIVATEENDPOINTCONNECTIONS/WRITE,,Administrative
+,MICROSOFT.FEATURES/FEATUREPROVIDERS/SUBSCRIPTIONFEATUREREGISTRATIONS/WRITE,,Administrative
+,MICROSOFT.FEATURES/PROVIDERS/FEATURES/REGISTER/ACTION,,Administrative
+,MICROSOFT.GUESTCONFIGURATION/GUESTCONFIGURATIONASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.HYBRIDCOMPUTE/MACHINES/EXTENSIONS/WRITE,,Administrative
+,Microsoft.HybridCompute/machines/upgradeExtensions/action,,Administrative
+,MICROSOFT.HYBRIDCOMPUTE/MACHINES/UPGRADEEXTENSIONS/ACTION,,Administrative
+,MICROSOFT.HYBRIDCOMPUTE/MACHINES/WRITE,,Administrative
+,MICROSOFT.HYBRIDCONTAINERSERVICE/REGISTER/ACTION,,Administrative
+,MICROSOFT.INSIGHTS/ACTIONGROUPS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/ACTIONGROUPS/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/ACTIVITYLOGALERTS/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/COMPONENTS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/COMPONENTS/METADATA/ACTION,,Administrative
+,MICROSOFT.INSIGHTS/COMPONENTS/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/CREATENOTIFICATIONS/ACTION,,Administrative
+,MICROSOFT.INSIGHTS/DATACOLLECTIONRULEASSOCIATIONS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/DATACOLLECTIONRULEASSOCIATIONS/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/DATACOLLECTIONRULES/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/DIAGNOSTICSETTINGS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/DIAGNOSTICSETTINGS/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/EXTENDEDDIAGNOSTICSETTINGS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/METRICALERTS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/METRICALERTS/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/REGISTER/ACTION,,Administrative
+,MICROSOFT.INSIGHTS/SCHEDULEDQUERYRULES/WRITE,,Administrative
+,MICROSOFT.INSIGHTS/WORKBOOKS/DELETE,,Administrative
+,MICROSOFT.INSIGHTS/WORKBOOKS/WRITE,,Administrative
+,MICROSOFT.IOTSECURITY/DEFENDERSETTINGS/PACKAGEDOWNLOADS/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/DEVICEGROUPS/ALERTS/LEARN/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/DEVICEGROUPS/ALERTS/PCAPAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/DEVICEGROUPS/ALERTS/PCAPREQUEST/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/DEVICEGROUPS/ALERTS/WRITE,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/SITES/SENSORS/DELETE,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/SITES/SENSORS/DOWNLOADACTIVATION/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/SITES/SENSORS/DOWNLOADRESETPASSWORD/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/SITES/SENSORS/TRIGGERTIPACKAGEUPDATE/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/SITES/SENSORS/WRITE,,Administrative
+,MICROSOFT.IOTSECURITY/LOCATIONS/SITES/WRITE,,Administrative
+,MICROSOFT.IOTSECURITY/ONPREMISESENSORS/DELETE,,Administrative
+,MICROSOFT.IOTSECURITY/ONPREMISESENSORS/DOWNLOADACTIVATION/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/ONPREMISESENSORS/DOWNLOADRESETPASSWORD/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/ONPREMISESENSORS/WRITE,,Administrative
+,MICROSOFT.IOTSECURITY/REGISTER/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/SENSORS/DELETE,,Administrative
+,MICROSOFT.IOTSECURITY/SENSORS/DOWNLOADRESETPASSWORD/ACTION,,Administrative
+,MICROSOFT.IOTSECURITY/SENSORS/TRIGGERTIPACKAGEUPDATE/ACTION,,Administrative
+,MICROSOFT.KEYVAULT/REGISTER/ACTION,,Administrative
+,MICROSOFT.KEYVAULT/VAULTS/ACCESSPOLICIES/WRITE,,Administrative
+,MICROSOFT.KEYVAULT/VAULTS/DELETE,,Administrative
+,MICROSOFT.KEYVAULT/VAULTS/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.KEYVAULT/VAULTS/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.KEYVAULT/VAULTS/SECRETS/WRITE,,Administrative
+,MICROSOFT.KEYVAULT/VAULTS/WRITE,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/DATABASES/DELETE,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/DATABASES/PRINCIPALASSIGNMENTS/DELETE,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/DATABASES/PRINCIPALASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/DATABASES/WRITE,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/LISTFOLLOWERDATABASES/ACTION,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/PRINCIPALASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.KUSTO/CLUSTERS/STOP/ACTION,,Administrative
+,MICROSOFT.LOGIC/INTEGRATIONACCOUNTS/MAPS/WRITE,,Administrative
+,MICROSOFT.LOGIC/INTEGRATIONACCOUNTS/WRITE,,Administrative
+,MICROSOFT.LOGIC/LOCATIONS/WORKFLOWS/RECOMMENDOPERATIONGROUPS/ACTION,,Administrative
+,MICROSOFT.LOGIC/REGISTER/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/DELETE,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/DISABLE/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/ENABLE/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/RUNS/CANCEL/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/TRIGGERS/HISTORIES/RESUBMIT/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/TRIGGERS/LISTCALLBACKURL/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/TRIGGERS/RUN/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/VALIDATE/ACTION,,Administrative
+,MICROSOFT.LOGIC/WORKFLOWS/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/BATCHENDPOINTS/DEPLOYMENTS/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/BATCHENDPOINTS/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/CHECKCOMPUTENAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/DELETE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/LISTNODES/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/RESTART/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/START/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/STOP/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/UPDATEIDLESHUTDOWNSETTING/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/UPDATESCHEDULES/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/COMPUTES/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/DELETE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/JOBS/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/LINKEDSERVICES/DELETE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/LINKEDSERVICES/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/LISTSTORAGEACCOUNTKEYS/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.MACHINELEARNINGSERVICES/WORKSPACES/WRITE,,Administrative
+,MICROSOFT.MAINTENANCE/CONFIGURATIONASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.MAINTENANCE/MAINTENANCECONFIGURATIONS/WRITE,,Administrative
+,MICROSOFT.MAINTENANCE/REGISTER/ACTION,,Administrative
+,MICROSOFT.MANAGEDIDENTITY/USERASSIGNEDIDENTITIES/DELETE,,Administrative
+,MICROSOFT.MANAGEDIDENTITY/USERASSIGNEDIDENTITIES/WRITE,,Administrative
+,MICROSOFT.MANAGEDSERVICES/REGISTRATIONASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.MANAGEDSERVICES/REGISTRATIONDEFINITIONS/WRITE,,Administrative
+,MICROSOFT.MAPS/REGISTER/ACTION,,Administrative
+,MICROSOFT.MARKETPLACENOTIFICATIONS/REGISTER/ACTION,,Administrative
+,MICROSOFT.MEDIA/REGISTER/ACTION,,Administrative
+,MICROSOFT.MIGRATE/ASSESSMENTPROJECTS/WRITE,,Administrative
+,MICROSOFT.MIGRATE/MIGRATEPROJECTS/REFRESHSUMMARY/ACTION,,Administrative
+,MICROSOFT.MIGRATE/MIGRATEPROJECTS/REGISTERTOOL/ACTION,,Administrative
+,MICROSOFT.MIGRATE/MIGRATEPROJECTS/SOLUTIONS/WRITE,,Administrative
+,MICROSOFT.MIGRATE/MIGRATEPROJECTS/WRITE,,Administrative
+,MICROSOFT.MIGRATE/REGISTER/ACTION,,Administrative
+,MICROSOFT.MIXEDREALITY/REGISTER/ACTION,,Administrative
+,MICROSOFT.NETWORK/APPLICATIONGATEWAYS/BACKENDHEALTH/ACTION,,Administrative
+,MICROSOFT.NETWORK/APPLICATIONGATEWAYS/WRITE,,Administrative
+,MICROSOFT.NETWORK/AZUREFIREWALLS/WRITE,,Administrative
+,MICROSOFT.NETWORK/BASTIONHOSTS/DELETE,,Administrative
+,MICROSOFT.NETWORK/BASTIONHOSTS/GETACTIVESESSIONS/ACTION,,Administrative
+,MICROSOFT.NETWORK/BASTIONHOSTS/WRITE,,Administrative
+,MICROSOFT.NETWORK/CONNECTIONS/DELETE,,Administrative
+,MICROSOFT.NETWORK/CONNECTIONS/WRITE,,Administrative
+,MICROSOFT.NETWORK/DDOSPROTECTIONPLANS/DDOSPROTECTIONPLANPROXIES/DELETE,,Administrative
+,MICROSOFT.NETWORK/DDOSPROTECTIONPLANS/DDOSPROTECTIONPLANPROXIES/WRITE,,Administrative
+,MICROSOFT.NETWORK/DDOSPROTECTIONPLANS/DELETE,,Administrative
+,MICROSOFT.NETWORK/DDOSPROTECTIONPLANS/WRITE,,Administrative
+,MICROSOFT.NETWORK/EXPRESSROUTECIRCUITS/WRITE,,Administrative
+,MICROSOFT.NETWORK/FIREWALLPOLICIES/DELETE,,Administrative
+,MICROSOFT.NETWORK/FIREWALLPOLICIES/WRITE,,Administrative
+,MICROSOFT.NETWORK/GETDNSRESOURCEREFERENCE/ACTION,,Administrative
+,MICROSOFT.NETWORK/LOADBALANCERS/BACKENDADDRESSPOOLS/WRITE,,Administrative
+,MICROSOFT.NETWORK/LOADBALANCERS/DELETE,,Administrative
+,MICROSOFT.NETWORK/LOADBALANCERS/WRITE,,Administrative
+,MICROSOFT.NETWORK/LOCATIONS/CHECKACCELERATEDNETWORKINGSUPPORT/ACTION,,Administrative
+,MICROSOFT.NETWORK/NETWORKINTERFACES/DELETE,,Administrative
+,MICROSOFT.NETWORK/NETWORKINTERFACES/EFFECTIVENETWORKSECURITYGROUPS/ACTION,,Administrative
+,MICROSOFT.NETWORK/NETWORKINTERFACES/EFFECTIVEROUTETABLE/ACTION,,Administrative
+,MICROSOFT.NETWORK/NETWORKINTERFACES/WRITE,,Administrative
+,MICROSOFT.NETWORK/NETWORKSECURITYGROUPS/DELETE,,Administrative
+,MICROSOFT.NETWORK/NETWORKSECURITYGROUPS/SECURITYRULES/DELETE,,Administrative
+,MICROSOFT.NETWORK/NETWORKSECURITYGROUPS/SECURITYRULES/WRITE,,Administrative
+,MICROSOFT.NETWORK/NETWORKSECURITYGROUPS/WRITE,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/CONNECTIONMONITORS/DELETE,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/CONNECTIONMONITORS/WRITE,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/DELETE,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/IPFLOWVERIFY/ACTION,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/PACKETCAPTURES/STOP/ACTION,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/PACKETCAPTURES/WRITE,,Administrative
+,MICROSOFT.NETWORK/NETWORKWATCHERS/WRITE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEDNSZONES/A/DELETE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEDNSZONES/A/WRITE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEDNSZONES/DELETE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEDNSZONES/VIRTUALNETWORKLINKS/DELETE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEDNSZONES/VIRTUALNETWORKLINKS/WRITE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEDNSZONES/WRITE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEENDPOINTS/DELETE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEENDPOINTS/PRIVATEDNSZONEGROUPS/WRITE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEENDPOINTS/PRIVATELINKSERVICEPROXIES/WRITE,,Administrative
+,MICROSOFT.NETWORK/PRIVATEENDPOINTS/WRITE,,Administrative
+,MICROSOFT.NETWORK/PUBLICIPADDRESSES/DELETE,,Administrative
+,MICROSOFT.NETWORK/PUBLICIPADDRESSES/WRITE,,Administrative
+,MICROSOFT.NETWORK/REGISTER/ACTION,,Administrative
+,MICROSOFT.NETWORK/ROUTETABLES/DELETE,,Administrative
+,MICROSOFT.NETWORK/ROUTETABLES/ROUTES/DELETE,,Administrative
+,MICROSOFT.NETWORK/ROUTETABLES/ROUTES/WRITE,,Administrative
+,MICROSOFT.NETWORK/ROUTETABLES/WRITE,,Administrative
+,MICROSOFT.NETWORK/SERVICEENDPOINTPOLICIES/SERVICEENDPOINTPOLICYDEFINITIONS/WRITE,,Administrative
+,MICROSOFT.NETWORK/SERVICEENDPOINTPOLICIES/WRITE,,Administrative
+,MICROSOFT.NETWORK/TRAFFICMANAGERPROFILES/AZUREENDPOINTS/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKGATEWAYS/DELETE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/DELETE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/LISTNETWORKMANAGEREFFECTIVECONNECTIVITYCONFIGURATIONS/ACTION,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/LISTNETWORKMANAGEREFFECTIVESECURITYADMINRULES/ACTION,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/CONTEXTUALSERVICEENDPOINTPOLICIES/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/DELETE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/RESOURCENAVIGATIONLINKS/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/SERVICEASSOCIATIONLINKS/DELETE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/SERVICEASSOCIATIONLINKS/VALIDATE/ACTION,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/SERVICEASSOCIATIONLINKS/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/SUBNETS/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/TAGGEDTRAFFICCONSUMERS/DELETE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/TAGGEDTRAFFICCONSUMERS/VALIDATE/ACTION,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/TAGGEDTRAFFICCONSUMERS/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/VIRTUALNETWORKPEERINGS/DELETE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/VIRTUALNETWORKPEERINGS/WRITE,,Administrative
+,MICROSOFT.NETWORK/VIRTUALNETWORKS/WRITE,,Administrative
+,MICROSOFT.NOTEBOOKS/NOTEBOOKPROXIES/DELETE,,Administrative
+,MICROSOFT.NOTEBOOKS/NOTEBOOKPROXIES/LISTCREDENTIALS/ACTION,,Administrative
+,MICROSOFT.NOTEBOOKS/NOTEBOOKPROXIES/PRIVATEENDPOINTCONNECTIONPROXIES/ACTION,,Administrative
+,MICROSOFT.NOTEBOOKS/NOTEBOOKPROXIES/WRITE,,Administrative
+,MICROSOFT.NOTEBOOKS/REGISTER/ACTION,,Administrative
+,MICROSOFT.OFFAZURE/HYPERVSITES/WRITE,,Administrative
+,MICROSOFT.OFFAZURE/MASTERSITES/APPLIANCEREGISTRATIONINFO/ACTION,,Administrative
+,MICROSOFT.OFFAZURE/MASTERSITES/SQLSITES/WRITE,,Administrative
+,MICROSOFT.OFFAZURE/MASTERSITES/WEBAPPSITES/WRITE,,Administrative
+,MICROSOFT.OFFAZURE/MASTERSITES/WRITE,,Administrative
+,MICROSOFT.OFFAZURE/REGISTER/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/QUERYPACKS/QUERIES/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/REGISTER/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/DATACOLLECTORLOGS/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/DATASOURCES/WRITE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/LINKEDSERVICES/WRITE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/LOGSETTINGS/DEFINITIONS/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/22D0239F-9A9D-499D-84D8-F079AD7C5F09/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/2338E840-0BD8-4457-B24F-1B19F8CAAFE3/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/3A46FA51-BA58-4E11-8869-E72592E2F682/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/558FB908-8C0F-4D07-801F-AB723788637F/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/68E47F70-4C00-4332-BB99-BD4B736678EA/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/6F35027A-C06B-4257-8BF6-FD87501ED09D/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/70431D41-D55B-4838-ADC3-FA8E80B1455B/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/78318FD6-EECB-41CC-AD72-9781B7F60986/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/78D56D87-76C5-4977-A8AB-69A47364F959/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/8E7DAE48-2C0C-40BA-8DF3-EB9DB6D49C58/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/BCB108E6-8550-4370-8160-F0E29DE46ABC/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/CDC1FD3D-E914-46F6-BC55-054CA7428070/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PROVIDERS/INCIDENTS/F5C54685-B042-4885-8436-7914F7C53E53/CC-PROD-SECURITY-SENTINEL/MICROSOFT.OPERATIONALINSIGHTS/CC-PROD-SECURITY-SENTINEL/MICROSOFT.SECURITYINSIGHTS/E79B693B-2360-4D3B-ADD4-F2F85E1B4FD0/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/PURGE/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/SAVEDSEARCHES/DELETE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/SAVEDSEARCHES/WRITE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/SHAREDKEYS/ACTION,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/VIEWS/WRITE,,Administrative
+,MICROSOFT.OPERATIONALINSIGHTS/WORKSPACES/WRITE,,Administrative
+,MICROSOFT.OPERATIONSMANAGEMENT/REGISTER/ACTION,,Administrative
+,MICROSOFT.OPERATIONSMANAGEMENT/SOLUTIONS/DELETE,,Administrative
+,MICROSOFT.OPERATIONSMANAGEMENT/SOLUTIONS/WRITE,,Administrative
+,MICROSOFT.PORTAL/DASHBOARDS/WRITE,,Administrative
+,MICROSOFT.POWERBIDEDICATED/CAPACITIES/WRITE,,Administrative
+,MICROSOFT.PURVIEW/ACCOUNTS/ADDROOTCOLLECTIONADMIN/ACTION,,Administrative
+,MICROSOFT.PURVIEW/ACCOUNTS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.PURVIEW/ACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.PURVIEW/ACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.PURVIEW/ACCOUNTS/PRIVATEENDPOINTCONNECTIONS/DELETE,,Administrative
+,MICROSOFT.PURVIEW/ACCOUNTS/PRIVATEENDPOINTCONNECTIONS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/LOCATIONS/ALLOCATESTAMP/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/LOCATIONS/BACKUPPREVALIDATEPROTECTION/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/LOCATIONS/BACKUPSTATUS/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/LOCATIONS/BACKUPVALIDATEFEATURES/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/LOCATIONS/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/REGISTER/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPCONFIG/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/BACKUPPROTECTIONINTENT/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/DELETE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/INQUIRE/ACTION,,Administrative
+,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/backup/action,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/PROTECTEDITEMS/BACKUP/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/PROTECTEDITEMS/DELETE,,Administrative
+,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/delete,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/PROTECTEDITEMS/RECOVERYPOINTS/PROVISIONINSTANTITEMRECOVERY/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/PROTECTEDITEMS/RECOVERYPOINTS/RESTORE/ACTION,,Administrative
+,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/restore/action,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/PROTECTEDITEMS/RECOVERYPOINTS/REVOKEINSTANTITEMRECOVERY/ACTION,,Administrative
+,Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/write,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/PROTECTEDITEMS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/PROTECTIONCONTAINERS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPFABRICS/REFRESHCONTAINERS/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPJOBS/CANCEL/ACTION,,Administrative
+,Microsoft.RecoveryServices/vaults/backupJobs/cancel/action,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPPOLICIES/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPSECURITYPIN/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/BACKUPTRIGGERVALIDATEOPERATION/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/CERTIFICATES/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/DELETE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REGISTEREDIDENTITIES/DELETE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONNETWORKS/REPLICATIONNETWORKMAPPINGS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONPROTECTIONCONTAINERS/REPLICATIONPROTECTEDITEMS/TESTFAILOVER/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONPROTECTIONCONTAINERS/REPLICATIONPROTECTEDITEMS/TESTFAILOVERCLEANUP/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONPROTECTIONCONTAINERS/REPLICATIONPROTECTEDITEMS/UPDATEMOBILITYSERVICE/ACTION,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONPROTECTIONCONTAINERS/REPLICATIONPROTECTEDITEMS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONPROTECTIONCONTAINERS/REPLICATIONPROTECTIONCONTAINERMAPPINGS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/REPLICATIONPROTECTIONCONTAINERS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONFABRICS/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/REPLICATIONPOLICIES/WRITE,,Administrative
+,MICROSOFT.RECOVERYSERVICES/VAULTS/WRITE,,Administrative
+,Microsoft.RecoveryServices/vaultsUndelete,,Administrative
+,MICROSOFT.RESOURCEGRAPH/QUERIES/WRITE,,Administrative
+,MICROSOFT.RESOURCEHEALTH/REGISTER/ACTION,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTS/CANCEL/ACTION,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTS/DELETE,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTS/EXPORTTEMPLATE/ACTION,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTS/VALIDATE/ACTION,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTSCRIPTS/DELETE,,Administrative
+,MICROSOFT.RESOURCES/DEPLOYMENTSCRIPTS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/LINKS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/MARKETPLACE/PURCHASE/ACTION,,Administrative
+,MICROSOFT.RESOURCES/SUBSCRIPTIONS/RESOURCEGROUPS/DELETE,,Administrative
+,MICROSOFT.RESOURCES/SUBSCRIPTIONS/RESOURCEGROUPS/MICROSOFT.POLICYINSIGHTS/ACTION,,Administrative
+,MICROSOFT.RESOURCES/SUBSCRIPTIONS/RESOURCEGROUPS/MOVERESOURCES/ACTION,,Administrative
+,MICROSOFT.RESOURCES/SUBSCRIPTIONS/RESOURCEGROUPS/VALIDATEMOVERESOURCES/ACTION,,Administrative
+,MICROSOFT.RESOURCES/SUBSCRIPTIONS/RESOURCEGROUPS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/TAGS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/TEMPLATESPECS/VERSIONS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/TEMPLATESPECS/WRITE,,Administrative
+,MICROSOFT.RESOURCES/TENANTS/REGISTER/ACTION,,Administrative
+,MICROSOFT.SAAS/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.SAAS/REGISTER/ACTION,,Administrative
+,MICROSOFT.SAAS/RESOURCES/LISTACCESSTOKEN/ACTION,,Administrative
+,MICROSOFT.SAAS/RESOURCES/WRITE,,Administrative
+,MICROSOFT.SEARCH/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.SEARCH/REGISTER/ACTION,,Administrative
+,MICROSOFT.SEARCH/SEARCHSERVICES/DELETE,,Administrative
+,MICROSOFT.SEARCH/SEARCHSERVICES/LISTADMINKEYS/ACTION,,Administrative
+,MICROSOFT.SEARCH/SEARCHSERVICES/WRITE,,Administrative
+,MICROSOFT.SECURITY/ADVANCEDTHREATPROTECTIONSETTINGS/WRITE,,Administrative
+,MICROSOFT.SECURITY/ASSESSMENTS/GOVERNANCEASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.SECURITY/IOTSECURITYSOLUTIONS/DELETE,,Administrative
+,MICROSOFT.SECURITY/PRICINGS/WRITE,,Administrative
+,MICROSOFT.SECURITY/REGISTER/ACTION,,Administrative
+,MICROSOFT.SECURITY/SERVERVULNERABILITYASSESSMENTS/WRITE,,Administrative
+,MICROSOFT.SECURITY/SERVERVULNERABILITYASSESSMENTSSETTINGS/DELETE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/ALERTRULES/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/AUTOMATIONRULES/DELETE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/AUTOMATIONRULES/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/BOOKMARKS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/CASES/COMMENTS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/CASES/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/DATACONNECTORS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/DATACONNECTORSCHECKREQUIREMENTS/ACTION,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/ACTION,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/COMMENTS/DELETE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/COMMENTS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/CREATETEAM/ACTION,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/DELETE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/INVESTIGATIONS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/RELATIONS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/RUNPLAYBOOK/ACTION,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/TASKS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/INCIDENTS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/METADATA/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/ONBOARDINGSTATES/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/REGISTER/ACTION,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/SOURCECONTROLS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/WATCHLISTS/DELETE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/WATCHLISTS/WATCHLISTITEMS/DELETE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/WATCHLISTS/WATCHLISTITEMS/WRITE,,Administrative
+,MICROSOFT.SECURITYINSIGHTS/WATCHLISTS/WRITE,,Administrative
+,MICROSOFT.SERIALCONSOLE/SERIALPORTS/CONNECT/ACTION,,Administrative
+,MICROSOFT.SERVICEFABRIC/REGISTER/ACTION,,Administrative
+,Microsoft.ServiceHealth/actionrequired/action,,Administrative
+,Microsoft.ServiceHealth/incident/action,,Administrative
+,MICROSOFT.SERVICELINKER/REGISTER/ACTION,,Administrative
+,MICROSOFT.SQL/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.SQL/MANAGEDINSTANCES/DATABASES/BACKUPSHORTTERMRETENTIONPOLICIES/WRITE,,Administrative
+,MICROSOFT.SQL/MANAGEDINSTANCES/DATABASES/WRITE,,Administrative
+,MICROSOFT.SQL/MANAGEDINSTANCES/SECURITYALERTPOLICIES/WRITE,,Administrative
+,MICROSOFT.SQL/MANAGEDINSTANCES/VULNERABILITYASSESSMENTS/WRITE,,Administrative
+,MICROSOFT.SQL/MANAGEDINSTANCES/WRITE,,Administrative
+,Microsoft.Sql/managedServers/write,,Administrative
+,MICROSOFT.SQL/REGISTER/ACTION,,Administrative
+,MICROSOFT.SQL/SERVERS/ADMINISTRATORS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/ADVANCEDTHREATPROTECTIONSETTINGS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/AUDITINGSETTINGS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/AUTOMATICTUNING/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/AUDITINGSETTINGS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/BACKUPLONGTERMRETENTIONPOLICIES/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/BACKUPSHORTTERMRETENTIONPOLICIES/WRITE,,Administrative
+,Microsoft.Sql/servers/databases/delete,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/DELETE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/EXTENSIONS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/MAINTENANCEWINDOWS/WRITE,,Administrative
+,Microsoft.Sql/servers/databases/pause,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/PAUSE/ACTION,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/RESTOREPOINTS/ACTION,,Administrative
+,Microsoft.Sql/servers/databases/resume,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/RESUME/ACTION,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/TOPQUERIES/QUERYTEXT/ACTION,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/TRANSPARENTDATAENCRYPTION/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/WORKLOADGROUPS/DELETE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/WORKLOADGROUPS/WORKLOADCLASSIFIERS/DELETE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/WORKLOADGROUPS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/DATABASES/WRITE,,Administrative
+,Microsoft.Sql/servers/databases/write,,Administrative
+,MICROSOFT.SQL/SERVERS/DELETE,,Administrative
+,Microsoft.Sql/servers/delete,,Administrative
+,MICROSOFT.SQL/SERVERS/DEVOPSAUDITINGSETTINGS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/ELASTICPOOLS/DELETE,,Administrative
+,MICROSOFT.SQL/SERVERS/ELASTICPOOLS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/ENCRYPTIONPROTECTOR/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/FIREWALLRULES/DELETE,,Administrative
+,Microsoft.Sql/servers/firewallRules/delete,,Administrative
+,MICROSOFT.SQL/SERVERS/FIREWALLRULES/WRITE,,Administrative
+,Microsoft.Sql/servers/firewallRules/write,,Administrative
+,MICROSOFT.SQL/SERVERS/KEYS/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/PRIVATEENDPOINTCONNECTIONPROXIES/DELETE,,Administrative
+,Microsoft.Sql/servers/privateEndpointConnectionProxies/delete,,Administrative
+,MICROSOFT.SQL/SERVERS/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.SQL/SERVERS/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,Microsoft.Sql/servers/privateEndpointConnectionProxies/write,,Administrative
+,MICROSOFT.SQL/SERVERS/SECURITYALERTPOLICIES/WRITE,,Administrative
+,MICROSOFT.SQL/SERVERS/VIRTUALNETWORKRULES/DELETE,,Administrative
+,Microsoft.Sql/servers/virtualNetworkRules/delete,,Administrative
+,MICROSOFT.SQL/SERVERS/VIRTUALNETWORKRULES/WRITE,,Administrative
+,Microsoft.Sql/servers/virtualNetworkRules/write,,Administrative
+,MICROSOFT.SQL/SERVERS/VULNERABILITYASSESSMENTS/WRITE,,Administrative
+,Microsoft.Sql/servers/write,,Administrative
+,MICROSOFT.SQL/SERVERS/WRITE,,Administrative
+,MICROSOFT.SQLVIRTUALMACHINE/SQLVIRTUALMACHINES/DELETE,,Administrative
+,MICROSOFT.SQLVIRTUALMACHINE/SQLVIRTUALMACHINES/REDEPLOY/ACTION,,Administrative
+,MICROSOFT.SQLVIRTUALMACHINE/SQLVIRTUALMACHINES/WRITE,,Administrative
+,MICROSOFT.STORAGE/REGISTER/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/BLOBSERVICES/CONTAINERS/DELETE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/BLOBSERVICES/CONTAINERS/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/BLOBSERVICES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/DELETE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/ENCRYPTIONSCOPES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/FILESERVICES/SHARES/DELETE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/FILESERVICES/SHARES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/FILESERVICES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/HNSONMIGRATION/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/LISTACCOUNTSAS/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/LISTSERVICESAS/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/MANAGEMENTPOLICIES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/DELETE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/PRIVATEENDPOINTCONNECTIONS/DELETE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/PRIVATEENDPOINTCONNECTIONS/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/QUEUESERVICES/QUEUES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/QUEUESERVICES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/REGENERATEKEY/ACTION,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/TABLESERVICES/TABLES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/TABLESERVICES/WRITE,,Administrative
+,MICROSOFT.STORAGE/STORAGEACCOUNTS/WRITE,,Administrative
+,MICROSOFT.STORAGESYNC/LOCATIONS/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.STORAGESYNC/REGISTER/ACTION,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/DELETE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/REGISTEREDSERVERS/DELETE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/REGISTEREDSERVERS/WRITE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/SYNCGROUPS/CLOUDENDPOINTS/DELETE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/SYNCGROUPS/CLOUDENDPOINTS/WRITE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/SYNCGROUPS/DELETE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/SYNCGROUPS/SERVERENDPOINTS/DELETE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/SYNCGROUPS/SERVERENDPOINTS/WRITE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/SYNCGROUPS/WRITE,,Administrative
+,MICROSOFT.STORAGESYNC/STORAGESYNCSERVICES/WRITE,,Administrative
+,MICROSOFT.STREAMANALYTICS/REGISTER/ACTION,,Administrative
+,MICROSOFT.SUPPORT/SUPPORTTICKETS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/LOCATIONS/KUSTOPOOLCHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/PRIVATELINKHUBS/PRIVATEENDPOINTCONNECTIONS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/REGISTER/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/AUDITINGSETTINGS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/AUTORESOLVEINTEGRATIONRUNTIME/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/AZURE-USE2-SYNAPSE-INTEGRATIONRUNTIME/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/BIGDATAPOOLS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/BIGDATAPOOLS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/CHECKDEFAULTSTORAGEACCOUNTSTATUS/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/FIREWALLRULES/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/FIREWALLRULES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/CREATEEXPRESSSHIRINSTALLLINK/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/ENABLEINTERACTIVEQUERY/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/LISTAUTHKEYS/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/NODES/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/NODES/IPADDRESS/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/NODES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/REGENERATEAUTHKEY/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/UPGRADE/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/INTEGRATIONRUNTIMES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KEYS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/ADDLANGUAGEEXTENSIONS/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/CHECKNAMEAVAILABILITY/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/DATABASES/PRINCIPALASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/DATABASES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRINCIPALASSIGNMENTS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRINCIPALASSIGNMENTS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRIVATEENDPOINTCONNECTIONPROXIES/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRIVATEENDPOINTCONNECTIONS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/PRIVATEENDPOINTCONNECTIONS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/REMOVELANGUAGEEXTENSIONS/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/START/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/STOP/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/KUSTOPOOLS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/PRIVATEENDPOINTCONNECTIONPROXIES/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/PRIVATEENDPOINTCONNECTIONPROXIES/VALIDATE/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/PRIVATEENDPOINTCONNECTIONPROXIES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/PRIVATEENDPOINTCONNECTIONS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/PRIVATEENDPOINTCONNECTIONS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/REPLACEALLIPFIREWALLRULES/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SECURITYALERTPOLICIES/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/AUDITINGSETTINGS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/MAINTENANCEWINDOWS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/PAUSE/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/RESTOREPOINTS/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/RESUME/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/TRANSPARENTDATAENCRYPTION/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/WORKLOADGROUPS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/WORKLOADGROUPS/WORKLOADCLASSIFIERS/DELETE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/WORKLOADGROUPS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/SQLPOOLS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/TRUSTEDSERVICEBYPASSCONFIGURATION/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/USE2-SYNAPSE-ANALYTICS-SHIR/ACTION,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/VULNERABILITYASSESSMENTS/WRITE,,Administrative
+,MICROSOFT.SYNAPSE/WORKSPACES/WRITE,,Administrative
+,MICROSOFT.VISUALSTUDIO/REGISTER/ACTION,,Administrative
+,MICROSOFT.WEB/CERTIFICATES/DELETE,,Administrative
+,MICROSOFT.WEB/CERTIFICATES/WRITE,,Administrative
+,MICROSOFT.WEB/CONNECTIONS/CONFIRMCONSENTCODE/ACTION,,Administrative
+,MICROSOFT.WEB/CONNECTIONS/DELETE,,Administrative
+,MICROSOFT.WEB/CONNECTIONS/DYNAMICINVOKE/ACTION,,Administrative
+,MICROSOFT.WEB/CONNECTIONS/LISTCONSENTLINKS/ACTION,,Administrative
+,MICROSOFT.WEB/CONNECTIONS/WRITE,,Administrative
+,MICROSOFT.WEB/CUSTOMAPIS/DELETE,,Administrative
+,MICROSOFT.WEB/CUSTOMAPIS/WRITE,,Administrative
+,MICROSOFT.WEB/REGISTER/ACTION,,Administrative
+,MICROSOFT.WEB/SERVERFARMS/DELETE,,Administrative
+,MICROSOFT.WEB/SERVERFARMS/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/CONFIG/VALIDATEUPGRADEPATH/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/CONFIG/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/CONTAINERLOGS/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/DELETE,,Administrative
+,MICROSOFT.WEB/SITES/DEPLOYWORKFLOWARTIFACTS/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/DOMAINOWNERSHIPIDENTIFIERS/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/EXTENSIONS/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/FUNCTIONS/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/FUNCTIONS/PROPERTIES/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/FUNCTIONS/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/HOST/LISTKEYS/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/HOST/SYNC/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/HOSTRUNTIME/VFS/__INIT__.PY/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/HOSTRUNTIME/VFS/FUNCTION.JSON/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/HOSTRUNTIME/VFS/REQUIREMENTS.TXT/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/NETWORKCONFIG/DELETE,,Administrative
+,MICROSOFT.WEB/SITES/NETWORKCONFIG/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/NEWPASSWORD/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/PUBLISHXML/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/RESTART/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/SITEEXTENSIONS/DELETE,,Administrative
+,MICROSOFT.WEB/SITES/SOURCECONTROLS/DELETE,,Administrative
+,MICROSOFT.WEB/SITES/SOURCECONTROLS/WRITE,,Administrative
+,MICROSOFT.WEB/SITES/START/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/STOP/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/SYNC/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/SYNCFUNCTIONTRIGGERS/ACTION,,Administrative
+,MICROSOFT.WEB/SITES/WRITE,,Administrative
+,MICROSOFT.WEB/STATICSITES/DELETE,,Administrative
+,MICROSOFT.WEB/STATICSITES/WRITE,,Administrative
+,MICROSOFT.WEB/VALIDATE/ACTION,,Administrative
+,Scheduled Maintenance,,Administrative
+,Smart Detection - Failure Anomalies Alert Rule Creation,,Administrative
+,SUBSCRIPTIONS/F5C54685-B042-4885-8436-7914F7C53E53/PROD-USE2-SERVERS-RESOURCEGROUP/MICROSOFT.AUTOMATION/AZ-MGMT-AUTOMATION/WRITE,,Administrative
+,Microsoft.Insights/ActivityLogAlerts/Activated/action,,Alert
+,MICROSOFT.AUTHORIZATION/POLICIES/AUDIT/ACTION,,Policy
+,MICROSOFT.AUTHORIZATION/POLICIES/AUDITIFNOTEXISTS/ACTION,,Policy
+,MICROSOFT.AUTHORIZATION/POLICIES/DEPLOYIFNOTEXISTS/ACTION,,Policy
+,Microsoft.Advisor/recommendations/available/action,,Recommendation
+,Microsoft.Security/locations/alerts/activate/action,,Security
