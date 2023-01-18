@@ -17,8 +17,8 @@ AuditLogs
 | extend ServicePrincipalID = tostring(parse_json(tostring(InitiatedBy.app)).servicePrincipalId)
 | extend ServicePrincipalName = tostring(parse_json(tostring(InitiatedBy.app)).servicePrincipalName)
 | extend modifiedProperties = tostring(parse_json(tostring(TargetResources[0].modifiedProperties)))
-| project Target, ActivityDateTime, Category, UPN, ActivityDisplayName, AADOperationType, Result, modifiedProperties, InitiatedBy, AdditionalDetails, Identity, ServicePrincipleDN, ServicePrincipalName, ServicePrincipalID, SourceSystem
 };
 searchByTargetName(targetName, startDate, timePeriod)
+| project Target, ActivityDateTime, Category, UPN, ActivityDisplayName, AADOperationType, Result, modifiedProperties, InitiatedBy, AdditionalDetails, Identity, ServicePrincipleDN, ServicePrincipalName, ServicePrincipalID, SourceSystem
 // Uncomment line below to get unique rows of the activity performed by a user
 // | distinct Target, ActivityDisplayName, AADOperationType, Category, UPN, ServicePrincipleDN
