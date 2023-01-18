@@ -1,0 +1,340 @@
+ActivityDisplayName,AADOperationType,Category
+Add application,Add,ApplicationManagement
+Add service principal,Add,ApplicationManagement
+Add a deletion-marked app role assignment grant to service principal as part of link removal,Assign,ApplicationManagement
+Add app role assignment to service principal,Assign,ApplicationManagement
+Add delegated permission grant,Assign,ApplicationManagement
+Add owner to application,Assign,ApplicationManagement
+Add owner to service principal,Assign,ApplicationManagement
+Add policy to service principal,Assign,ApplicationManagement
+Consent to application,Assign,ApplicationManagement
+Delete application,Delete,ApplicationManagement
+Hard Delete application,Delete,ApplicationManagement
+Hard delete service principal,Delete,ApplicationManagement
+Remove service principal,Delete,ApplicationManagement
+Authentication Methods Policy Update,ServiceApi,ApplicationManagement
+Authentication Strength Policy Create,ServiceApi,ApplicationManagement
+Authentication Strength Policy Update,ServiceApi,ApplicationManagement
+POST Tenant.CreateBlockedUser,ServiceApi,ApplicationManagement
+POST Tenant.RemoveBlockedUser,ServiceApi,ApplicationManagement
+Remove app role assignment from service principal,Unassign,ApplicationManagement
+Remove delegated permission grant,Unassign,ApplicationManagement
+Remove owner from application,Unassign,ApplicationManagement
+Remove owner from service principal,Unassign,ApplicationManagement
+Revoke consent,Unassign,ApplicationManagement
+Add service principal credentials,Update,ApplicationManagement
+Remove service principal credentials,Update,ApplicationManagement
+Update application,Update,ApplicationManagement
+Update application – Certificates and secrets management ,Update,ApplicationManagement
+Update external secrets,Update,ApplicationManagement
+Update service principal,Update,ApplicationManagement
+Validate user authentication,,Authentication
+Add a group to feature rollout,Add,Authentication
+Add user to feature rollout,Add,Authentication
+Create rollout policy for feature,Add,Authentication
+Remove user from feature rollout,Delete,Authentication
+Update rollout policy of feature,Update,Authentication
+Get Api connectors,,Authorization
+Get authentication flows policy,,Authorization
+Get available output claims,,Authorization
+Get B2C directory resources in a subscription,,Authorization
+Get Guest Usages resources in a subscription,,Authorization
+Get identity providers,,Authorization
+Get resource properties of a tenant,,Authorization
+Get tenant details,,Authorization
+Get user flows,,Authorization
+Initialize tenant,,Authorization
+Update authorization policy,Update,AuthorizationPolicy
+Add contact,Add,Contact
+Update contact,Update,Contact
+Add device,Add,Device
+Pre-create device,Add,Device
+Register device,Add,Device
+Add registered owner to device,Assign,Device
+Add registered users to device,Assign,Device
+Delete device,Delete,Device
+Delete pre-created device,Delete,Device
+Unregister device,Delete,Device
+Remove registered owner from device,Unassign,Device
+Remove registered users from device,Unassign,Device
+Device no longer compliant,Update,Device
+Device no longer managed,Update,Device
+Update device,Update,Device
+Download devices - finished (bulk),Add,DeviceManagement
+Download devices - started (bulk),Add,DeviceManagement
+started (bulk),Add,DeviceManagement
+Get resource properties of a tenant,,DirectoryManagement
+Get tenant details,,DirectoryManagement
+Initialize tenant,,DirectoryManagement
+Add unverified domain,Add,DirectoryManagement
+Add verified domain,Add,DirectoryManagement
+Bulk download hardware tokens - finished (bulk),Add,DirectoryManagement
+Bulk download hardware tokens - started (bulk),Add,DirectoryManagement
+Create company,Add,DirectoryManagement
+Create Company,Add,DirectoryManagement
+Download role assignments - finished (bulk),Add,DirectoryManagement
+Download role assignments - started (bulk),Add,DirectoryManagement
+Download service principals - finished (bulk),Add,DirectoryManagement
+Download service principals - started (bulk),Add,DirectoryManagement
+Download user registration details - finished (bulk),Add,DirectoryManagement
+Download user registration details - started (bulk),Add,DirectoryManagement
+Download users - finished (bulk),Add,DirectoryManagement
+Download users - started (bulk),Add,DirectoryManagement
+started (bulk),Add,DirectoryManagement
+Remove verified domain,Delete,DirectoryManagement
+Add partner to company,Update,DirectoryManagement
+Disable password writeback for directory,Update,DirectoryManagement
+Enable password writeback for directory,Update,DirectoryManagement
+Set Company Information,Update,DirectoryManagement
+Set Partnership,Update,DirectoryManagement
+Update company,Update,DirectoryManagement
+Update domain,Update,DirectoryManagement
+Verify domain,Update,DirectoryManagement
+Create connected organization,AddPartner,EntitlementManagement
+Add Entitlement Management role assignment,AddSystemRoleAssignment,EntitlementManagement
+Approval stage completed for access package assignment request,ApprovalStageCompletedEntitlementGrantRequest,EntitlementManagement
+Approve access package assignment request,ApproveEntitlementGrantRequest,EntitlementManagement
+Auto approve access package assignment request,AutoApproveEntitlementGrantRequest,EntitlementManagement
+Cancel access package assignment request,CancelEntitlementGrantRequest,EntitlementManagement
+Create access package,CreateEntitlement,EntitlementManagement
+Create access package catalog,CreateEntitlementCatalog,EntitlementManagement
+Administrator directly assigns user to access package,CreateEntitlementGrantAdminAddRequest,EntitlementManagement
+Administrator directly removes user access package assignment,CreateEntitlementGrantAdminRemoveRequest,EntitlementManagement
+Create access package assignment policy,CreateEntitlementGrantPolicy,EntitlementManagement
+Entitlement Management removes access package assignment request for user,CreateEntitlementGrantSystemRemoveRequest,EntitlementManagement
+User requests access package assignment,CreateEntitlementGrantUserAddRequest,EntitlementManagement
+User requests to extend access package assignment,CreateEntitlementGrantUserExtendRequest,EntitlementManagement
+User requests to remove access package assignment,CreateEntitlementGrantUserRemoveRequest,EntitlementManagement
+Create resource remove request,CreateResourceRemoveRequest,EntitlementManagement
+Create resource request,CreateResourceRequest,EntitlementManagement
+Delete access package,DeleteEntitlement,EntitlementManagement
+Delete access package catalog,DeleteEntitlementCatalog,EntitlementManagement
+Delete access package assignment for a deleted user,DeleteEntitlementGrantForDeletedUserInAad,EntitlementManagement
+Delete access package assignment policy,DeleteEntitlementGrantPolicy,EntitlementManagement
+Delete access package assignment request,DeleteEntitlementGrantRequest,EntitlementManagement
+Delete access package assignment request for a deleted user,DeleteEntitlementGrantRequestForDeletedUserInAad,EntitlementManagement
+Remove Entitlement Management role assignment,DeleteSystemRoleAssignment,EntitlementManagement
+Deny access package assignment request,DenyEntitlementGrantRequest,EntitlementManagement
+Extend access package assignment,ExtendEntitlementGrant,EntitlementManagement
+Failed access package assignment request,FailedEntitlementGrantRequest,EntitlementManagement
+Fulfill access package assignment request,FulfillEntitlementGrantRequest,EntitlementManagement
+Fulfill access package resource assignment,FulfillEntitlementResourceAssignment,EntitlementManagement
+Partially fulfill access package assignment request,PartiallyFulfilledEntitlementGrantRequest,EntitlementManagement
+Ready to fulfill access package assignment request,ReadyToFulfillEntitlementGrantRequest,EntitlementManagement
+Remove access package resource assignment,RemoveEntitlementResourceAssignment,EntitlementManagement
+Reprocess access package assignment,ReprocessAssignment,EntitlementManagement
+Reprocess access package assignment request,ReprocessAssignmentRequest,EntitlementManagement
+Fulfill access package assignment request,TimeoutEntitlementGrantRequest,EntitlementManagement
+Update access package,UpdateEntitlement,EntitlementManagement
+Update access package catalog,UpdateEntitlementCatalog,EntitlementManagement
+Update access package assignment policy,UpdateEntitlementGrantPolicy,EntitlementManagement
+Update access package assignment request,UpdateEntitlementGrantRequest,EntitlementManagement
+Add member to role completed (PIM activation),ActivateRole,GroupManagement
+Add group,Add,GroupManagement
+Bulk import group members - finished (bulk),Add,GroupManagement
+Bulk import group members - started (bulk),Add,GroupManagement
+Download group members - finished (bulk),Add,GroupManagement
+Download group members - started (bulk),Add,GroupManagement
+Download groups - finished (bulk),Add,GroupManagement
+Download groups - started (bulk),Add,GroupManagement
+started (bulk),Add,GroupManagement
+Remove eligible member from role in PIM completed (timebound),AdminRemoveEligibleRole,GroupManagement
+Remove member from role in PIM completed (timebound),AdminRemoveGrantedRole,GroupManagement
+Remove eligible member from role in PIM completed (permanent),AdminRemovePermanentEligibleRole,GroupManagement
+Add a deletion-marked app role assignment grant to group as part of link removal,Assign,GroupManagement
+Add app role assignment to group,Assign,GroupManagement
+Add member to group,Assign,GroupManagement
+Add owner to group,Assign,GroupManagement
+Grant contextual consent to application,Assign,GroupManagement
+Add eligible member to role in PIM completed (timebound),AssignEligibleRole,GroupManagement
+Add eligible member to role in PIM completed (permanent),AssignPermanentEligibleRole,GroupManagement
+Add eligible member to role in PIM requested (timebound),CreateRequestEligibleRole,GroupManagement
+Add member to role in PIM requested (timebound),CreateRequestGrantedRole,GroupManagement
+Remove member from role in PIM requested (timebound),CreateRequestGrantedRoleRemoval,GroupManagement
+Add eligible member to role in PIM requested (permanent),CreateRequestPermanentEligibleRole,GroupManagement
+Remove eligible member from role in PIM requested (permanent),CreateRequestPermanentEligibleRoleRemoval,GroupManagement
+Add eligible member to role in PIM requested (renew),CreateRequestRenewEligibleRole,GroupManagement
+Add member to role requested (PIM activation),CreateRequestRoleActivation,GroupManagement
+Remove member from role requested (PIM deactivate),CreateRequestRoleDeactivation,GroupManagement
+Process role update request,CreateRoleUpdateRequest,GroupManagement
+Remove member from role completed (PIM deactivate),DeactivateRole,GroupManagement
+Delete group,Delete,GroupManagement
+Hard Delete group,Delete,GroupManagement
+Offboarded resource from PIM,OffboardResource,GroupManagement
+Onboarded resource to PIM,OnboardResource,GroupManagement
+Remove member from role (PIM activation expired),RemoveActivatedRole,GroupManagement
+Remove eligible member from role in PIM completed (timebound),RemoveEligibleRole,GroupManagement
+Restore Group,Restore,GroupManagement
+Remove app role assignment from group,Unassign,GroupManagement
+Remove member from group,Unassign,GroupManagement
+Remove owner from group,Unassign,GroupManagement
+Finish applying group based license to users,Update,GroupManagement
+Reject a pending request to join a group,Update,GroupManagement
+Request to join a group,Update,GroupManagement
+Set group license,Update,GroupManagement
+Start applying group based license to users,Update,GroupManagement
+Trigger group license recalculation,Update,GroupManagement
+Update group,Update,GroupManagement
+Update role setting in PIM,UpdatePolicy,GroupManagement
+Add BitLocker key,Add,KeyManagement
+Delete BitLocker key,Delete,KeyManagement
+Read BitLocker key,Get,KeyManagement
+ConfirmSafe,Update,Other
+DismissUser,Update,Other
+Add conditional access policy,Add,Policy
+Add policy,Add,Policy
+Create access review,Add,Policy
+Create request,Add,Policy
+Add owner to policy,Assign,Policy
+Clear block on user,Delete,Policy
+Delete request,Delete,Policy
+Remove owner from policy,Unassign,Policy
+Apply decision,Update,Policy
+Approve decision,Update,Policy
+Bulk Approve decisions,Update,Policy
+Cancel request,Update,Policy
+Deny decision,Update,Policy
+Request expired,Update,Policy
+Reset decision,Update,Policy
+Update access review,Update,Policy
+Update conditional access policy,Update,Policy
+Update named location,Update,Policy
+Update policy,Update,Policy
+Update request,Update,Policy
+Update User Risk and MFA Registration Policy,Update,Policy
+Add provisioning configuration,,ProvisioningManagement
+Export,,ProvisioningManagement
+Import,,ProvisioningManagement
+Other,,ProvisioningManagement
+Synchronization rule action,,ProvisioningManagement
+Update attribute mappings or scope,,ProvisioningManagement
+Update provisioning setting or credentials,,ProvisioningManagement
+User Provisioning,,ProvisioningManagement
+Get Api connectors,,ResourceManagement
+Get authentication flows policy,,ResourceManagement
+Get available output claims,,ResourceManagement
+Get B2C directory resources in a subscription,,ResourceManagement
+Get Guest Usages resources in a subscription,,ResourceManagement
+Get identity providers,,ResourceManagement
+Get user flows,,ResourceManagement
+Triggered PIM alert,ActivateAlert,ResourceManagement
+Add member to role completed (PIM activation),ActivateRole,ResourceManagement
+Update member in PIM approved by admin (extend/renew),AdminApproveRequest,ResourceManagement
+Remove eligible member from role in PIM completed (timebound),AdminRemoveEligibleRole,ResourceManagement
+Remove member from role in PIM completed (timebound),AdminRemoveGrantedRole,ResourceManagement
+Remove eligible member from role in PIM completed (permanent),AdminRemovePermanentEligibleRole,ResourceManagement
+Remove member from role in PIM completed (permanent),AdminRemovePermanentGrantedRole,ResourceManagement
+Add eligible member to role in PIM completed (timebound),AssignEligibleRole,ResourceManagement
+Add member to role in PIM completed (timebound),AssignGrantedRole,ResourceManagement
+Add eligible member to role in PIM completed (permanent),AssignPermanentEligibleRole,ResourceManagement
+Add member to role in PIM completed (permanent),AssignPermanentGrantedRole,ResourceManagement
+Cancel request for role update,CancelRoleUpdateRequest,ResourceManagement
+Process request,CreateRequest,ResourceManagement
+Add eligible member to role in PIM requested (timebound),CreateRequestEligibleRole,ResourceManagement
+Remove eligible member from role in PIM requested (timebound),CreateRequestEligibleRoleRemoval,ResourceManagement
+Update eligible member in PIM requested (extend),CreateRequestExtendEligibleRole,ResourceManagement
+Add member to role in PIM requested (timebound),CreateRequestGrantedRole,ResourceManagement
+Remove member from role in PIM requested (timebound),CreateRequestGrantedRoleRemoval,ResourceManagement
+Add eligible member to role in PIM requested (permanent),CreateRequestPermanentEligibleRole,ResourceManagement
+Remove eligible member from role in PIM requested (permanent),CreateRequestPermanentEligibleRoleRemoval,ResourceManagement
+Add member to role in PIM requested (permanent),CreateRequestPermanentGrantedRole,ResourceManagement
+Remove member from role in PIM requested (permanent),CreateRequestPermanentGrantedRoleRemoval,ResourceManagement
+Add member to role requested (PIM activation),CreateRequestRoleActivation,ResourceManagement
+Remove member from role requested (PIM deactivate),CreateRequestRoleDeactivation,ResourceManagement
+Onboarded resource to PIM,CreateResource,ResourceManagement
+Process role update request,CreateRoleUpdateRequest,ResourceManagement
+Remove member from role completed (PIM deactivate),DeactivateRole,ResourceManagement
+Offboarded resource from PIM,OffboardResource,ResourceManagement
+Onboarded resource to PIM,OnboardResource,ResourceManagement
+Remove member from role (PIM activation expired),RemoveActivatedRole,ResourceManagement
+Remove eligible member from role in PIM completed (timebound),RemoveEligibleRole,ResourceManagement
+Resolve PIM alert,ResolveAlert,ResourceManagement
+Update role setting in PIM,UpdatePolicy,ResourceManagement
+Triggered PIM alert,ActivateAlert,RoleManagement
+Add member to role completed (PIM activation),ActivateRole,RoleManagement
+Remove member from role in PIM completed (timebound),AdminRemoveGrantedRole,RoleManagement
+Remove eligible member from role in PIM completed (permanent),AdminRemovePermanentEligibleRole,RoleManagement
+Remove member from role in PIM completed (permanent),AdminRemovePermanentGrantedRole,RoleManagement
+Add eligible member to role,Assign,RoleManagement
+Add member to role,Assign,RoleManagement
+Add eligible member to role in PIM completed (permanent),AssignPermanentEligibleRole,RoleManagement
+Add member to role in PIM completed (permanent),AssignPermanentGrantedRole,RoleManagement
+Add member to role in PIM requested (timebound),CreateRequestGrantedRole,RoleManagement
+Add eligible member to role in PIM requested (permanent),CreateRequestPermanentEligibleRole,RoleManagement
+Remove eligible member from role in PIM requested (permanent),CreateRequestPermanentEligibleRoleRemoval,RoleManagement
+Add member to role in PIM requested (permanent),CreateRequestPermanentGrantedRole,RoleManagement
+Remove member from role in PIM requested (permanent),CreateRequestPermanentGrantedRoleRemoval,RoleManagement
+Add member to role requested (PIM activation),CreateRequestRoleActivation,RoleManagement
+Remove member from role requested (PIM deactivate),CreateRequestRoleDeactivation,RoleManagement
+Process role update request,CreateRoleUpdateRequest,RoleManagement
+Remove member from role completed (PIM deactivate),DeactivateRole,RoleManagement
+Offboarded resource from PIM,OffboardResource,RoleManagement
+Remove member from role (PIM activation expired),RemoveActivatedRole,RoleManagement
+Remove eligible member from role in PIM completed (timebound),RemoveEligibleRole,RoleManagement
+Remove permanent eligible role assignment,RemovePermanentEligibleRole,RoleManagement
+Resolve PIM alert,ResolveAlert,RoleManagement
+Add member to role outside of PIM (permanent),RoleElevatedOutsidePimAlert,RoleManagement
+Remove eligible member from role,Unassign,RoleManagement
+Remove member from role,Unassign,RoleManagement
+Update role,Update,RoleManagement
+Update role setting in PIM,UpdatePolicy,RoleManagement
+Delete external user,,UserManagement
+Fraud reported - no action taken,,UserManagement
+Fraud reported - user is blocked for MFA,,UserManagement
+Redeem external user invite,,UserManagement
+User registered security info,,UserManagement
+Viral user creation,,UserManagement
+Add FIDO2 security key,Add,UserManagement
+Add passwordless phone sign-in credential,Add,UserManagement
+Add user,Add,UserManagement
+Add Windows Hello for Business credential,Add,UserManagement
+Bulk invite users - finished (bulk),Add,UserManagement
+Bulk invite users - started (bulk),Add,UserManagement
+Create business flow,Add,UserManagement
+Invite external user,Add,UserManagement
+Invite external user with reset invitation status,Add,UserManagement
+User cancelled security info registration,Add,UserManagement
+User registered all required security info,Add,UserManagement
+User registered security info,Add,UserManagement
+User started security info registration,Add,UserManagement
+Add a deletion-marked app role assignment grant to user as part of link removal,Assign,UserManagement
+Add app role assignment grant to user,Assign,UserManagement
+Delete business flow,Delete,UserManagement
+Delete FIDO2 security key(s),Delete,UserManagement
+Delete passwordless phone sign-in credential,Delete,UserManagement
+Delete user,Delete,UserManagement
+Hard Delete user,Delete,UserManagement
+Remove users strong authentication phone app detail,Delete,UserManagement
+User deleted security info,Delete,UserManagement
+Restore user,Restore,UserManagement
+ User registered security info,ServiceApi,UserManagement
+Admin deleted security info,ServiceApi,UserManagement
+Admin registered security info,ServiceApi,UserManagement
+Admin updated security info,ServiceApi,UserManagement
+Remove app role assignment from user,Unassign,UserManagement
+Approve all requests in business flow,Update,UserManagement
+Auto apply review,Update,UserManagement
+Auto Review,Update,UserManagement
+Change password (self-service),Update,UserManagement
+Change user license,Update,UserManagement
+Change user password,Update,UserManagement
+Disable account,Update,UserManagement
+Enable account,Update,UserManagement
+Request approved,Update,UserManagement
+Request denied,Update,UserManagement
+Reset password (by admin),Update,UserManagement
+Reset password (self-service),Update,UserManagement
+Reset user password,Update,UserManagement
+Security info saved for self-service password reset,Update,UserManagement
+Self-service password reset flow activity progress,Update,UserManagement
+Set user manager,Update,UserManagement
+Unlock user account (self-service),Update,UserManagement
+Update business flow,Update,UserManagement
+Update external secrets,Update,UserManagement
+Update StsRefreshTokenValidFrom Timestamp,Update,UserManagement
+Update user,Update,UserManagement
+Updated ConvergedUXV2 feature value,Update,UserManagement
+User changed default security info,Update,UserManagement
+User completed security info registration for self-service password reset,Update,UserManagement
+User reviewed security info,Update,UserManagement
+User started security info registration for self-service password reset,Update,UserManagement
