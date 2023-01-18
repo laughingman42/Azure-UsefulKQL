@@ -1,0 +1,33 @@
+// DESCRIPTION: Search AzureAD Audit logs for all entries where a Privileged Role was activated via PIM.
+// PARAMETERS
+// startDate:  Starting date and time for search
+// timePeriod: Timeperiod till which audit logs should be searched. 
+//             Timeperiod can be changed to days (d), hours (h), minutes (m), seconds (s) and millisecons (ms)
+let startDate = datetime("2022-01-01 12:00:00");
+let timePeriod =365d;
+let searchPimActivations = (StartDate:datetime, TimePeriod:time) {
+AuditLogs
+| where TimeGenerated between (StartDate..(StartDate+TimePeriod))
+| project TimeGenerated, OperationName, Result, TargetResources, InitiatedBy
+| where OperationName == "Add member to role completed (PIM activation)"
+| where Result == "success"
+| extend ActorDisplayName = tostring(TargetResources[2].displayName)
+| extend ActorUPN1 = tostring(parse_json(tostring(InitiatedBy.user)).userPrincipalName)
+| extend ActorUPN2 = tostring(TargetResources[2].userPrincipalName)
+| extend ActorUPN = iff(isempty( ActorUPN1), ActorUPN2, ActorUPN1) // Different fields because of RBAC role vs AzureAD Role vs Priv AAD Groups
+| project-away ActorUPN2, ActorUPN1
+| extend InitiatedByUserDispName = tostring(parse_json(tostring(InitiatedBy.user)).displayName)
+| extend IntiatedByApp = tostring(parse_json(tostring(InitiatedBy.app)).displayName)
+| extend InitiatedByUser = iff(isempty( InitiatedByUserDispName), IntiatedByApp, InitiatedByUserDispName) // Different fields because of RBAC role vs AzureAD Role vs Priv AAD Groups
+| project-away IntiatedByApp, InitiatedByUserDispName
+| extend RoleType = tostring(TargetResources[4].displayName)
+| extend SubscriptionOrTenant = iff( RoleType in ("Azure RBAC Roles"),tostring(TargetResources[3].displayName), "Azure AD")
+| extend PrivilegedADGroupName = iff( RoleType in ("Azure AD Groups"),tostring(TargetResources[3].displayName), "N/A")
+| extend ['Last Role Activated'] = iff(tostring(TargetResources[0].displayName)=="Member",PrivilegedADGroupName,tostring(TargetResources[0].displayName)) // For AAD Priv Groups, this populates as Member. Want the group that was activated instead
+};
+searchPimActivations(startDate, timePeriod)
+// Uncomment lines below to filter roles activated more than 30 days ago
+//| summarize arg_max(TimeGenerated, *) by ActorUPN
+//| project ActorUPN, InitiatedByUser, ['Last Role Activated'], ['Last Activation Time']=TimeGenerated, ['Days Since Last Activation']=datetime_diff("day", now(), TimeGenerated)
+//| where ['Days Since Last Activation'] > 30
+//| sort by ['Days Since Last Activation'] desc
