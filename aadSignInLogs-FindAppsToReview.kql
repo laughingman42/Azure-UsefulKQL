@@ -1,0 +1,17 @@
+// DESCRIPTION: Search AzureAD SignIn logs for all Service Principals (Apps) that have not signed in for given time.
+// PARAMETERS
+// endDate:  Date till which to search. Considered as cutoff date.
+// timePeriod: Timeperiod for lookback from endDate. 
+let endDate = now();        // Assuming lookback from today
+let timePeriod =365d;       // Lookback for a year
+let filterTimePeriod = 60;  // Find apps with last signin older than these many days
+let appsToReview =
+AADServicePrincipalSignInLogs
+| where TimeGenerated between ((endDate-timePeriod)..endDate)
+| summarize arg_max(TimeGenerated, *) by ServicePrincipalName
+;
+appsToReview
+| project ServicePrincipalName, AppId, LastSignIn=TimeGenerated, DaysSinceLastSignIn=datetime_diff("day", now(), TimeGenerated)
+| where DaysSinceLastSignIn > filterTimePeriod
+//TODO: Filter apps that have already been deleted
+//TODO: Extract who created app from AuditLog
