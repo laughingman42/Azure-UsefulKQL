@@ -1,0 +1,7 @@
+SigninLogs
+// Removing unnecesarry fields from results. Note that the tenantId fields may be important for multi-tenant or guest signin scenarios 
+| project-away TenantId, AADTenantId, ResourceTenantId, HomeTenantId, ResourceId, SourceSystem, OperationName, OperationVersion, Category, CorrelationId, Resource, ResourceGroup, Id, OriginalRequestId
+| mv-expand ConditionalAccessPolicies   // Creates a new row for each conditional access policy in the user's signin log
+| extend CADisplayName = ConditionalAccessPolicies.displayName
+| extend EnforcedGrantControls = ConditionalAccessPolicies.enforcedGrantControls
+| extend DeviceDetail = tostring(DeviceDetail)
